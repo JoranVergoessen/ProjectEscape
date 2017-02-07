@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\School\2nd year\Project 3\MGEngine\bullet3\Extras\Serialize\BulletWorldImporter\btBulletWorldImporter.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\School\2nd year\Project 3\MGEngine\bullet3\Extras\Serialize\BulletWorldImporter\btWorldImporter.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="D:\School\2nd year\Project 3\MGEngine\bullet3\Extras\Serialize\BulletWorldImporter\btBulletWorldImporter.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\School\2nd year\Project 3\MGEngine\bullet3\Extras\Serialize\BulletWorldImporter\btWorldImporter.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\School\2nd year\Project 3\MGEngine\bullet3\Extras\Serialize\BulletWorldImporter\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{B409308D-546D-31F1-8D78-A2D661B9954B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{878FDC9E-DA6D-3AEA-8CD0-28ADA9E49108}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

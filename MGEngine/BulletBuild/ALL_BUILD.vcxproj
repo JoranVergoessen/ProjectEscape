@@ -1,0 +1,277 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project DefaultTargets="Build" ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="MinSizeRel|Win32">
+      <Configuration>MinSizeRel</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="RelWithDebInfo|Win32">
+      <Configuration>RelWithDebInfo</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGUID>{7A93DD00-4102-358A-ABA5-B649694ABA16}</ProjectGUID>
+    <Keyword>Win32Proj</Keyword>
+    <Platform>Win32</Platform>
+    <ProjectName>ALL_BUILD</ProjectName>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>Utility</ConfigurationType>
+    <UseOfMfc>false</UseOfMfc>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v140</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Utility</ConfigurationType>
+    <UseOfMfc>false</UseOfMfc>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v140</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'" Label="Configuration">
+    <ConfigurationType>Utility</ConfigurationType>
+    <UseOfMfc>false</UseOfMfc>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v140</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'" Label="Configuration">
+    <ConfigurationType>Utility</ConfigurationType>
+    <UseOfMfc>false</UseOfMfc>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v140</PlatformToolset>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+    <PropertyGroup>
+      <_ProjectFileVersion>10.0.20506.1</_ProjectFileVersion>
+      <IntDir Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">$(Platform)\$(Configuration)\$(ProjectName)\</IntDir>
+      <IntDir Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">$(Platform)\$(Configuration)\$(ProjectName)\</IntDir>
+      <IntDir Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">$(Platform)\$(Configuration)\$(ProjectName)\</IntDir>
+      <IntDir Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">$(Platform)\$(Configuration)\$(ProjectName)\</IntDir>
+    </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Midl>
+      <AdditionalIncludeDirectories>%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Midl>
+      <AdditionalIncludeDirectories>%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">
+    <Midl>
+      <AdditionalIncludeDirectories>%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">
+    <Midl>
+      <AdditionalIncludeDirectories>%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\School\2nd year\Project 3\MGEngine\bullet3\CMakeLists.txt">
+      <Message Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Building Custom Rule D:/School/2nd year/Project 3/MGEngine/bullet3/CMakeLists.txt</Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">setlocal
+D:\progs\Cmake\bin\cmake.exe "-HD:/School/2nd year/Project 3/MGEngine/bullet3" "-BD:/School/2nd year/Project 3/MGEngine/BulletBuild" --check-stamp-file "D:\School\2nd year\Project 3\MGEngine\BulletBuild\CMakeFiles\generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">D:/School/2nd year/Project 3/MGEngine/bullet3/CMakeLists.txt;D:\School\2nd year\Project 3\MGEngine\bullet3\CMakeLists.txt;D:\School\2nd year\Project 3\MGEngine\BulletBuild\CMakeFiles\3.7.2\CMakeSystem.cmake;D:\progs\Cmake\share\cmake-3.7\Modules\CMakeSystemSpecificInitialize.cmake;D:\School\2nd year\Project 3\MGEngine\BulletBuild\CMakeFiles\3.7.2\CMakeCCompiler.cmake;D:\School\2nd year\Project 3\MGEngine\BulletBuild\CMakeFiles\3.7.2\CMakeCXXCompiler.cmake;D:\progs\Cmake\share\cmake-3.7\Modules\CMakeSystemSpecificInformation.cmake;D:\progs\Cmake\share\cmake-3.7\Modules\CMakeGenericSystem.cmake;D:\progs\Cmake\share\cmake-3.7\Modules\Platform\Windows.cmake;D:\progs\Cmake\share\cmake-3.7\Modules\Platform\WindowsPaths.cmake;D:\progs\Cmake\share\cmake-3.7\Modules\CMakeCInformation.cmake;D:\progs\Cmake\share\cmake-3.7\Modules\CMakeLanguageInformation.cmake;D:\progs\Cmake\share\cmake-3.7\Modules\Platform\Windows-MSVC-C.cmake;D:\progs\Cmake\share\cmake-3.7\Modules\Platform\Windows-MSVC.cmake;D:\School\2nd year\Project 3\MGEngine\BulletBuild\CMakeFiles\3.7.2\CMakeRCCompiler.cmake;D:\progs\Cmake\share\cmake-3.7\Modules\CMakeRCInformation.cmake;D:\progs\Cmake\share\cmake-3.7\Modules\CMakeCommonLanguageInclude.cmake;D:\progs\Cmake\share\cmake-3.7\Modules\CMakeCXXInformation.cmake;D:\progs\Cmake\share\cmake-3.7\Modules\CMakeLanguageInformation.cmake;D:\progs\Cmake\share\cmake-3.7\Modules\Compiler\MSVC-CXX.cmake;D:\progs\Cmake\share\cmake-3.7\Modules\Platform\Windows-MSVC-CXX.cmake;D:\progs\Cmake\share\cmake-3.7\Modules\Platform\Windows-MSVC.cmake;D:\progs\Cmake\share\cmake-3.7\Modules\CMakeCommonLanguageInclude.cmake;D:\progs\Cmake\share\cmake-3.7\Modules\FindOpenGL.cmake;D:\progs\Cmake\share\cmake-3.7\Modules\FindPackageHandleStandardArgs.cmake;D:\progs\Cmake\share\cmake-3.7\Modules\FindPackageMessage.cmake;D:\progs\Cmake\share\cmake-3.7\Modules\CMakeParseArguments.cmake;D:\School\2nd year\Project 3\MGEngine\bullet3\BulletConfig.cmake.in;D:\School\2nd year\Project 3\MGEngine\bullet3\CMakeLists.txt;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">D:\School\2nd year\Project 3\MGEngine\BulletBuild\CMakeFiles\generate.stamp</Outputs>
+      <LinkObjects Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">false</LinkObjects>
+      <Message Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">Building Custom Rule D:/School/2nd year/Project 3/MGEngine/bullet3/CMakeLists.txt</Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">setlocal
+D:\progs\Cmake\bin\cmake.exe "-HD:/School/2nd year/Project 3/MGEngine/bullet3" "-BD:/School/2nd year/Project 3/MGEngine/BulletBuild" --check-stamp-file "D:\School\2nd year\Project 3\MGEngine\BulletBuild\CMakeFiles\generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">D:/School/2nd year/Project 3/MGEngine/bullet3/CMakeLists.txt;D:\School\2nd year\Project 3\MGEngine\bullet3\CMakeLists.txt;D:\School\2nd year\Project 3\MGEngine\BulletBuild\CMakeFiles\3.7.2\CMakeSystem.cmake;D:\progs\Cmake\share\cmake-3.7\Modules\CMakeSystemSpecificInitialize.cmake;D:\School\2nd year\Project 3\MGEngine\BulletBuild\CMakeFiles\3.7.2\CMakeCCompiler.cmake;D:\School\2nd year\Project 3\MGEngine\BulletBuild\CMakeFiles\3.7.2\CMakeCXXCompiler.cmake;D:\progs\Cmake\share\cmake-3.7\Modules\CMakeSystemSpecificInformation.cmake;D:\progs\Cmake\share\cmake-3.7\Modules\CMakeGenericSystem.cmake;D:\progs\Cmake\share\cmake-3.7\Modules\Platform\Windows.cmake;D:\progs\Cmake\share\cmake-3.7\Modules\Platform\WindowsPaths.cmake;D:\progs\Cmake\share\cmake-3.7\Modules\CMakeCInformation.cmake;D:\progs\Cmake\share\cmake-3.7\Modules\CMakeLanguageInformation.cmake;D:\progs\Cmake\share\cmake-3.7\Modules\Platform\Windows-MSVC-C.cmake;D:\progs\Cmake\share\cmake-3.7\Modules\Platform\Windows-MSVC.cmake;D:\School\2nd year\Project 3\MGEngine\BulletBuild\CMakeFiles\3.7.2\CMakeRCCompiler.cmake;D:\progs\Cmake\share\cmake-3.7\Modules\CMakeRCInformation.cmake;D:\progs\Cmake\share\cmake-3.7\Modules\CMakeCommonLanguageInclude.cmake;D:\progs\Cmake\share\cmake-3.7\Modules\CMakeCXXInformation.cmake;D:\progs\Cmake\share\cmake-3.7\Modules\CMakeLanguageInformation.cmake;D:\progs\Cmake\share\cmake-3.7\Modules\Compiler\MSVC-CXX.cmake;D:\progs\Cmake\share\cmake-3.7\Modules\Platform\Windows-MSVC-CXX.cmake;D:\progs\Cmake\share\cmake-3.7\Modules\Platform\Windows-MSVC.cmake;D:\progs\Cmake\share\cmake-3.7\Modules\CMakeCommonLanguageInclude.cmake;D:\progs\Cmake\share\cmake-3.7\Modules\FindOpenGL.cmake;D:\progs\Cmake\share\cmake-3.7\Modules\FindPackageHandleStandardArgs.cmake;D:\progs\Cmake\share\cmake-3.7\Modules\FindPackageMessage.cmake;D:\progs\Cmake\share\cmake-3.7\Modules\CMakeParseArguments.cmake;D:\School\2nd year\Project 3\MGEngine\bullet3\BulletConfig.cmake.in;D:\School\2nd year\Project 3\MGEngine\bullet3\CMakeLists.txt;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">D:\School\2nd year\Project 3\MGEngine\BulletBuild\CMakeFiles\generate.stamp</Outputs>
+      <LinkObjects Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">false</LinkObjects>
+      <Message Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">Building Custom Rule D:/School/2nd year/Project 3/MGEngine/bullet3/CMakeLists.txt</Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">setlocal
+D:\progs\Cmake\bin\cmake.exe "-HD:/School/2nd year/Project 3/MGEngine/bullet3" "-BD:/School/2nd year/Project 3/MGEngine/BulletBuild" --check-stamp-file "D:\School\2nd year\Project 3\MGEngine\BulletBuild\CMakeFiles\generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">D:/School/2nd year/Project 3/MGEngine/bullet3/CMakeLists.txt;D:\School\2nd year\Project 3\MGEngine\bullet3\CMakeLists.txt;D:\School\2nd year\Project 3\MGEngine\BulletBuild\CMakeFiles\3.7.2\CMakeSystem.cmake;D:\progs\Cmake\share\cmake-3.7\Modules\CMakeSystemSpecificInitialize.cmake;D:\School\2nd year\Project 3\MGEngine\BulletBuild\CMakeFiles\3.7.2\CMakeCCompiler.cmake;D:\School\2nd year\Project 3\MGEngine\BulletBuild\CMakeFiles\3.7.2\CMakeCXXCompiler.cmake;D:\progs\Cmake\share\cmake-3.7\Modules\CMakeSystemSpecificInformation.cmake;D:\progs\Cmake\share\cmake-3.7\Modules\CMakeGenericSystem.cmake;D:\progs\Cmake\share\cmake-3.7\Modules\Platform\Windows.cmake;D:\progs\Cmake\share\cmake-3.7\Modules\Platform\WindowsPaths.cmake;D:\progs\Cmake\share\cmake-3.7\Modules\CMakeCInformation.cmake;D:\progs\Cmake\share\cmake-3.7\Modules\CMakeLanguageInformation.cmake;D:\progs\Cmake\share\cmake-3.7\Modules\Platform\Windows-MSVC-C.cmake;D:\progs\Cmake\share\cmake-3.7\Modules\Platform\Windows-MSVC.cmake;D:\School\2nd year\Project 3\MGEngine\BulletBuild\CMakeFiles\3.7.2\CMakeRCCompiler.cmake;D:\progs\Cmake\share\cmake-3.7\Modules\CMakeRCInformation.cmake;D:\progs\Cmake\share\cmake-3.7\Modules\CMakeCommonLanguageInclude.cmake;D:\progs\Cmake\share\cmake-3.7\Modules\CMakeCXXInformation.cmake;D:\progs\Cmake\share\cmake-3.7\Modules\CMakeLanguageInformation.cmake;D:\progs\Cmake\share\cmake-3.7\Modules\Compiler\MSVC-CXX.cmake;D:\progs\Cmake\share\cmake-3.7\Modules\Platform\Windows-MSVC-CXX.cmake;D:\progs\Cmake\share\cmake-3.7\Modules\Platform\Windows-MSVC.cmake;D:\progs\Cmake\share\cmake-3.7\Modules\CMakeCommonLanguageInclude.cmake;D:\progs\Cmake\share\cmake-3.7\Modules\FindOpenGL.cmake;D:\progs\Cmake\share\cmake-3.7\Modules\FindPackageHandleStandardArgs.cmake;D:\progs\Cmake\share\cmake-3.7\Modules\FindPackageMessage.cmake;D:\progs\Cmake\share\cmake-3.7\Modules\CMakeParseArguments.cmake;D:\School\2nd year\Project 3\MGEngine\bullet3\BulletConfig.cmake.in;D:\School\2nd year\Project 3\MGEngine\bullet3\CMakeLists.txt;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">D:\School\2nd year\Project 3\MGEngine\BulletBuild\CMakeFiles\generate.stamp</Outputs>
+      <LinkObjects Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">false</LinkObjects>
+      <Message Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">Building Custom Rule D:/School/2nd year/Project 3/MGEngine/bullet3/CMakeLists.txt</Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">setlocal
+D:\progs\Cmake\bin\cmake.exe "-HD:/School/2nd year/Project 3/MGEngine/bullet3" "-BD:/School/2nd year/Project 3/MGEngine/BulletBuild" --check-stamp-file "D:\School\2nd year\Project 3\MGEngine\BulletBuild\CMakeFiles\generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">D:/School/2nd year/Project 3/MGEngine/bullet3/CMakeLists.txt;D:\School\2nd year\Project 3\MGEngine\bullet3\CMakeLists.txt;D:\School\2nd year\Project 3\MGEngine\BulletBuild\CMakeFiles\3.7.2\CMakeSystem.cmake;D:\progs\Cmake\share\cmake-3.7\Modules\CMakeSystemSpecificInitialize.cmake;D:\School\2nd year\Project 3\MGEngine\BulletBuild\CMakeFiles\3.7.2\CMakeCCompiler.cmake;D:\School\2nd year\Project 3\MGEngine\BulletBuild\CMakeFiles\3.7.2\CMakeCXXCompiler.cmake;D:\progs\Cmake\share\cmake-3.7\Modules\CMakeSystemSpecificInformation.cmake;D:\progs\Cmake\share\cmake-3.7\Modules\CMakeGenericSystem.cmake;D:\progs\Cmake\share\cmake-3.7\Modules\Platform\Windows.cmake;D:\progs\Cmake\share\cmake-3.7\Modules\Platform\WindowsPaths.cmake;D:\progs\Cmake\share\cmake-3.7\Modules\CMakeCInformation.cmake;D:\progs\Cmake\share\cmake-3.7\Modules\CMakeLanguageInformation.cmake;D:\progs\Cmake\share\cmake-3.7\Modules\Platform\Windows-MSVC-C.cmake;D:\progs\Cmake\share\cmake-3.7\Modules\Platform\Windows-MSVC.cmake;D:\School\2nd year\Project 3\MGEngine\BulletBuild\CMakeFiles\3.7.2\CMakeRCCompiler.cmake;D:\progs\Cmake\share\cmake-3.7\Modules\CMakeRCInformation.cmake;D:\progs\Cmake\share\cmake-3.7\Modules\CMakeCommonLanguageInclude.cmake;D:\progs\Cmake\share\cmake-3.7\Modules\CMakeCXXInformation.cmake;D:\progs\Cmake\share\cmake-3.7\Modules\CMakeLanguageInformation.cmake;D:\progs\Cmake\share\cmake-3.7\Modules\Compiler\MSVC-CXX.cmake;D:\progs\Cmake\share\cmake-3.7\Modules\Platform\Windows-MSVC-CXX.cmake;D:\progs\Cmake\share\cmake-3.7\Modules\Platform\Windows-MSVC.cmake;D:\progs\Cmake\share\cmake-3.7\Modules\CMakeCommonLanguageInclude.cmake;D:\progs\Cmake\share\cmake-3.7\Modules\FindOpenGL.cmake;D:\progs\Cmake\share\cmake-3.7\Modules\FindPackageHandleStandardArgs.cmake;D:\progs\Cmake\share\cmake-3.7\Modules\FindPackageMessage.cmake;D:\progs\Cmake\share\cmake-3.7\Modules\CMakeParseArguments.cmake;D:\School\2nd year\Project 3\MGEngine\bullet3\BulletConfig.cmake.in;D:\School\2nd year\Project 3\MGEngine\bullet3\CMakeLists.txt;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">D:\School\2nd year\Project 3\MGEngine\BulletBuild\CMakeFiles\generate.stamp</Outputs>
+      <LinkObjects Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">false</LinkObjects>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="D:/School/2nd year/Project 3/MGEngine/BulletBuild/ZERO_CHECK.vcxproj">
+      <Project>04190BD9-B5C6-39AD-B495-71414CE41102</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/School/2nd year/Project 3/MGEngine/BulletBuild/examples/BasicDemo/AppBasicExampleGui.vcxproj">
+      <Project>250E22F1-2859-3088-8BB6-0A51C90000F7</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/School/2nd year/Project 3/MGEngine/BulletBuild/examples/BasicDemo/App_BasicExample.vcxproj">
+      <Project>1412D606-2FFB-3DED-B32E-F9FB2EC52F1E</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/School/2nd year/Project 3/MGEngine/BulletBuild/examples/ExampleBrowser/App_ExampleBrowser.vcxproj">
+      <Project>95AFD236-A5DD-36BE-B42C-DE390311C851</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/School/2nd year/Project 3/MGEngine/BulletBuild/examples/HelloWorld/App_HelloWorld.vcxproj">
+      <Project>CF3F5D4C-FEB7-3E39-A2A5-5DF27C256C2A</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/School/2nd year/Project 3/MGEngine/BulletBuild/examples/SharedMemory/App_SharedMemoryPhysics.vcxproj">
+      <Project>83F9285F-90A2-3228-A89C-2AB4592E0D28</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/School/2nd year/Project 3/MGEngine/BulletBuild/examples/SharedMemory/App_SharedMemoryPhysics_GUI.vcxproj">
+      <Project>7D80048F-4F7B-3C6D-BE80-4A8F532088CC</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/School/2nd year/Project 3/MGEngine/BulletBuild/src/Bullet3Serialize/Bullet2FileLoader/Bullet2FileLoader.vcxproj">
+      <Project>223228F6-5DBC-3A52-B018-0B8116EB2A7D</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/School/2nd year/Project 3/MGEngine/BulletBuild/src/Bullet3Collision/Bullet3Collision.vcxproj">
+      <Project>95E91150-3C79-33DB-AF5B-838BF38357E6</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/School/2nd year/Project 3/MGEngine/BulletBuild/src/Bullet3Common/Bullet3Common.vcxproj">
+      <Project>5E06C73B-BEE5-3FA9-ABCC-8E346EC6C08B</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/School/2nd year/Project 3/MGEngine/BulletBuild/src/Bullet3Dynamics/Bullet3Dynamics.vcxproj">
+      <Project>7C8B4C7F-FDF4-339A-B37B-F621565149FF</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/School/2nd year/Project 3/MGEngine/BulletBuild/src/Bullet3Geometry/Bullet3Geometry.vcxproj">
+      <Project>3CB2E8FB-CC54-3F46-86AE-6F22092EFDC1</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/School/2nd year/Project 3/MGEngine/BulletBuild/src/Bullet3OpenCL/Bullet3OpenCL_clew.vcxproj">
+      <Project>56178550-C6DC-3032-9DAA-973507D45080</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/School/2nd year/Project 3/MGEngine/BulletBuild/src/BulletCollision/BulletCollision.vcxproj">
+      <Project>F90D105A-50B7-385A-B648-6280F08AD791</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/School/2nd year/Project 3/MGEngine/BulletBuild/src/BulletDynamics/BulletDynamics.vcxproj">
+      <Project>532B6B18-22C0-3FFE-B077-F8753F285F87</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/School/2nd year/Project 3/MGEngine/BulletBuild/examples/ExampleBrowser/BulletExampleBrowserLib.vcxproj">
+      <Project>212DF4A1-02A9-334D-8134-B06A4D7CE62A</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/School/2nd year/Project 3/MGEngine/BulletBuild/Extras/Serialize/BulletFileLoader/BulletFileLoader.vcxproj">
+      <Project>20A43A8B-AB2D-34EC-AE54-93202BDCE5A6</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/School/2nd year/Project 3/MGEngine/BulletBuild/src/BulletInverseDynamics/BulletInverseDynamics.vcxproj">
+      <Project>5BDD5BE6-8AEC-3C40-BD28-F01BDC42B30A</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/School/2nd year/Project 3/MGEngine/BulletBuild/Extras/InverseDynamics/BulletInverseDynamicsUtils.vcxproj">
+      <Project>7DFE0661-1FC9-3957-92AD-B5080C1C35A5</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/School/2nd year/Project 3/MGEngine/BulletBuild/src/BulletSoftBody/BulletSoftBody.vcxproj">
+      <Project>AFB46437-383C-393D-A01A-98C614D8CB93</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/School/2nd year/Project 3/MGEngine/BulletBuild/Extras/Serialize/BulletWorldImporter/BulletWorldImporter.vcxproj">
+      <Project>49B1DCF9-E36D-3143-BDD2-85A1B6BA5A10</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/School/2nd year/Project 3/MGEngine/BulletBuild/Extras/Serialize/BulletXmlWorldImporter/BulletXmlWorldImporter.vcxproj">
+      <Project>5211BA1D-9D3D-367A-B950-94AF9A1AE30F</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/School/2nd year/Project 3/MGEngine/BulletBuild/examples/ThirdPartyLibs/BussIK/BussIK.vcxproj">
+      <Project>6DB78EBA-6F09-3068-A4C3-C2173D8BC9E7</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/School/2nd year/Project 3/MGEngine/BulletBuild/Extras/ConvexDecomposition/ConvexDecomposition.vcxproj">
+      <Project>8121C211-E4CB-3477-A12E-77CB8EFC44C9</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/School/2nd year/Project 3/MGEngine/BulletBuild/Extras/GIMPACTUtils/GIMPACTUtils.vcxproj">
+      <Project>EB3335B6-C7CA-3B79-82F0-9CBCB0A0B17A</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/School/2nd year/Project 3/MGEngine/BulletBuild/Extras/HACD/HACD.vcxproj">
+      <Project>06C9C3AE-4E71-37D5-B523-C523A4179E0D</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/School/2nd year/Project 3/MGEngine/BulletBuild/src/LinearMath/LinearMath.vcxproj">
+      <Project>1FFC5C3A-4D65-3E8D-98A6-D38493A4E24E</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/School/2nd year/Project 3/MGEngine/BulletBuild/examples/OpenGLWindow/OpenGLWindow.vcxproj">
+      <Project>4E2C1E13-4AC2-3E1B-A9BE-08BB0D4468EF</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/School/2nd year/Project 3/MGEngine/BulletBuild/test/BulletDynamics/pendulum/Test_BulletDynamics.vcxproj">
+      <Project>5F00CFEA-451D-3CE9-971C-569D973FFE45</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/School/2nd year/Project 3/MGEngine/BulletBuild/test/InverseDynamics/Test_BulletInverseDynamics.vcxproj">
+      <Project>8884A461-CE58-3042-BC6B-50853318D128</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/School/2nd year/Project 3/MGEngine/BulletBuild/test/InverseDynamics/Test_BulletInverseDynamicsJacobian.vcxproj">
+      <Project>C26E1CC1-EF51-36A4-BA24-54B857D6D0DB</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/School/2nd year/Project 3/MGEngine/BulletBuild/test/InverseDynamics/Test_BulletInverseForwardDynamics.vcxproj">
+      <Project>2DB10F52-491A-3766-BAC3-D1CB7CBEAE1C</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/School/2nd year/Project 3/MGEngine/BulletBuild/test/collision/Test_Collision.vcxproj">
+      <Project>4CF5B073-69BB-3CEF-B86F-7AE618627E92</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/School/2nd year/Project 3/MGEngine/BulletBuild/test/SharedMemory/Test_PhysicsClientServer.vcxproj">
+      <Project>36C10AB5-8552-3429-995E-11B774159687</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/School/2nd year/Project 3/MGEngine/BulletBuild/test/gtest-1.7.0/gtest.vcxproj">
+      <Project>FB083A7B-0CAB-39E2-B8BD-2338EF13F44B</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/School/2nd year/Project 3/MGEngine/BulletBuild/examples/ThirdPartyLibs/Gwen/gwen.vcxproj">
+      <Project>B51B32EE-5B49-3A0E-8AD8-9727898191C8</Project>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>
