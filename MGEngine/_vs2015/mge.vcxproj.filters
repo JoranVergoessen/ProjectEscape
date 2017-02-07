@@ -103,6 +103,9 @@
     <ClInclude Include="..\src\mge\Project3.h">
       <Filter>MGE Source files\mge</Filter>
     </ClInclude>
+    <ClInclude Include="..\src\mge\core\PhysicsWorld.hpp">
+      <Filter>MGE Source files\mge\core</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="..\src\main.cpp">
@@ -179,6 +182,9 @@
     </ClCompile>
     <ClCompile Include="..\src\mge\Project3.cpp">
       <Filter>MGE Source files\mge</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\mge\core\PhysicsWorld.cpp">
+      <Filter>MGE Source files\mge\core</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
