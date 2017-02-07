@@ -181,6 +181,7 @@
     <ClInclude Include="..\src\mge\core\Camera.hpp" />
     <ClInclude Include="..\src\mge\core\GameObject.hpp" />
     <ClInclude Include="..\src\mge\core\Mesh.hpp" />
+    <ClInclude Include="..\src\mge\core\PhysicsWorld.hpp" />
     <ClInclude Include="..\src\mge\core\Renderer.hpp" />
     <ClInclude Include="..\src\mge\core\ShaderProgram.hpp" />
     <ClInclude Include="..\src\mge\core\Texture.hpp" />
@@ -208,6 +209,7 @@
     <ClCompile Include="..\src\mge\core\Camera.cpp" />
     <ClCompile Include="..\src\mge\core\GameObject.cpp" />
     <ClCompile Include="..\src\mge\core\Mesh.cpp" />
+    <ClCompile Include="..\src\mge\core\PhysicsWorld.cpp" />
     <ClCompile Include="..\src\mge\core\Renderer.cpp" />
     <ClCompile Include="..\src\mge\core\ShaderProgram.cpp" />
     <ClCompile Include="..\src\mge\core\Texture.cpp" />
