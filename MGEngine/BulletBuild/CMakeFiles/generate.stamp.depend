@@ -1,0 +1,28 @@
+# CMake generation dependency list for this directory.
+D:/School/2nd year/Project 3/MGEngine/bullet3/CMakeLists.txt
+D:/School/2nd year/Project 3/MGEngine/BulletBuild/CMakeFiles/3.7.2/CMakeSystem.cmake
+D:/progs/Cmake/share/cmake-3.7/Modules/CMakeSystemSpecificInitialize.cmake
+D:/School/2nd year/Project 3/MGEngine/BulletBuild/CMakeFiles/3.7.2/CMakeCCompiler.cmake
+D:/School/2nd year/Project 3/MGEngine/BulletBuild/CMakeFiles/3.7.2/CMakeCXXCompiler.cmake
+D:/progs/Cmake/share/cmake-3.7/Modules/CMakeSystemSpecificInformation.cmake
+D:/progs/Cmake/share/cmake-3.7/Modules/CMakeGenericSystem.cmake
+D:/progs/Cmake/share/cmake-3.7/Modules/Platform/Windows.cmake
+D:/progs/Cmake/share/cmake-3.7/Modules/Platform/WindowsPaths.cmake
+D:/progs/Cmake/share/cmake-3.7/Modules/CMakeCInformation.cmake
+D:/progs/Cmake/share/cmake-3.7/Modules/CMakeLanguageInformation.cmake
+D:/progs/Cmake/share/cmake-3.7/Modules/Platform/Windows-MSVC-C.cmake
+D:/progs/Cmake/share/cmake-3.7/Modules/Platform/Windows-MSVC.cmake
+D:/School/2nd year/Project 3/MGEngine/BulletBuild/CMakeFiles/3.7.2/CMakeRCCompiler.cmake
+D:/progs/Cmake/share/cmake-3.7/Modules/CMakeRCInformation.cmake
+D:/progs/Cmake/share/cmake-3.7/Modules/CMakeCommonLanguageInclude.cmake
+D:/progs/Cmake/share/cmake-3.7/Modules/CMakeCXXInformation.cmake
+D:/progs/Cmake/share/cmake-3.7/Modules/CMakeLanguageInformation.cmake
+D:/progs/Cmake/share/cmake-3.7/Modules/Compiler/MSVC-CXX.cmake
+D:/progs/Cmake/share/cmake-3.7/Modules/Platform/Windows-MSVC-CXX.cmake
+D:/progs/Cmake/share/cmake-3.7/Modules/Platform/Windows-MSVC.cmake
+D:/progs/Cmake/share/cmake-3.7/Modules/CMakeCommonLanguageInclude.cmake
+D:/progs/Cmake/share/cmake-3.7/Modules/FindOpenGL.cmake
+D:/progs/Cmake/share/cmake-3.7/Modules/FindPackageHandleStandardArgs.cmake
+D:/progs/Cmake/share/cmake-3.7/Modules/FindPackageMessage.cmake
+D:/progs/Cmake/share/cmake-3.7/Modules/CMakeParseArguments.cmake
+D:/School/2nd year/Project 3/MGEngine/bullet3/BulletConfig.cmake.in

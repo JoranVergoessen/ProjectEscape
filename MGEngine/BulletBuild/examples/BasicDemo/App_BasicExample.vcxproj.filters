@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\School\2nd year\Project 3\MGEngine\bullet3\examples\BasicDemo\BasicExample.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\School\2nd year\Project 3\MGEngine\bullet3\examples\BasicDemo\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\School\2nd year\Project 3\MGEngine\bullet3\examples\BasicDemo\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="D:\School\2nd year\Project 3\MGEngine\bullet3\build3\bullet.rc">
+      <Filter>Source Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{B409308D-546D-31F1-8D78-A2D661B9954B}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
