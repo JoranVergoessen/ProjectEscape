@@ -64,8 +64,8 @@ void MGEDemo::_initializeScene()
 
     //add camera first (it will be updated last)
     Camera* camera = new Camera ("mainCamera", glm::vec3(0,2,5));
-    _world->add(camera);
-    _world->setMainCamera(camera);
+    world->add(camera);
+    world->setMainCamera(camera);
 
 	//TEXTURES
 	Texture* terrainGrass = Texture::load(config::MGE_TEXTURE_PATH + "terrain/diffuse1.jpg");
@@ -93,7 +93,7 @@ void MGEDemo::_initializeScene()
 	dirLight->setMesh(cubeMesh);
 	dirLight->setMaterial(new ColorMaterial(yellow));
 	dirLight->setBehaviour(new RotatingBehaviour());
-	_world->add(dirLight);
+	world->add(dirLight);
 
 
 	GameObject* terrain = new GameObject("terrain", glm::vec3(0,0,-2));
@@ -101,7 +101,7 @@ void MGEDemo::_initializeScene()
 	terrain->setMesh(terrainMesh);
 	terrain->setMaterial(terrainMaterial);
 	terrain->setBehaviour(new KeysBehaviour());
-	_world->add(terrain);
+	world->add(terrain);
 
 
 	camera->setBehaviour(new OrbitBehaviour(terrain));

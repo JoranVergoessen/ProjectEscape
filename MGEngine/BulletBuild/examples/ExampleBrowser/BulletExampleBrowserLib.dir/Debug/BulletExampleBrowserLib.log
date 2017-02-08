@@ -1,0 +1,16 @@
+﻿  Building Custom Rule D:/School/2nd year/Project 3/MGEngine/bullet3/examples/ExampleBrowser/CMakeLists.txt
+  CMake does not need to re-run because D:\School\2nd year\Project 3\MGEngine\BulletBuild\examples\ExampleBrowser\CMakeFiles\generate.stamp is up-to-date.
+  OpenGLExampleBrowser.cpp
+  OpenGLGuiHelper.cpp
+  GL_ShapeDrawer.cpp
+  CollisionShape2TriangleMesh.cpp
+  b3Clock.cpp
+  b3ResourcePath.cpp
+  GraphingTexture.cpp
+  GwenParameterInterface.cpp
+  GwenProfileWindow.cpp
+  GwenTextureWindow.cpp
+  gwenUserInterface.cpp
+D:\School\2nd year\Project 3\MGEngine\bullet3\examples\ExampleBrowser\GwenGUISupport\gwenUserInterface.cpp(652): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+  Generating Code...
+  BulletExampleBrowserLib.vcxproj -> D:\School\2nd year\Project 3\MGEngine\BulletBuild\lib\Debug\BulletExampleBrowserLib_Debug.lib

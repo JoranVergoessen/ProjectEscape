@@ -13,6 +13,7 @@ public:
 	virtual void AddRigidBody(btRigidBody* pRigidBody);
 
 	virtual btDiscreteDynamicsWorld* GetDynamicsWorld();
+	virtual void Update(float pStep, int pMaxTimeSteps);
 
 protected:
 	btVector3 _gravity;
@@ -28,5 +29,4 @@ protected:
 	btDiscreteDynamicsWorld* _dynamicsWorld;
 
 	virtual void initialize();
-	virtual void update(float pStep);
 };

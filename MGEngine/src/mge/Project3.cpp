@@ -14,8 +14,13 @@ using namespace std;
 #include "mge/core/PhysicsWorld.hpp"
 //util
 #include "mge/util/DebugHud.hpp"
+//physics
 #include <btBulletDynamicsCommon.h>
 #include <btBulletCollisionCommon.h>
+//material
+#include <mge/materials/AbstractMaterial.hpp>
+#include <mge/materials/LitTextureMaterial.hpp>
+#include <mge/materials/TextureMaterial.hpp>
 
 Project3::Project3() :AbstractGame(), _hud(0)
 {
@@ -32,15 +37,36 @@ void Project3::initialize()
 
 void Project3::_initializeScene()
 {
+	SetTargetFps(120.0f);
 	//_renderer->setClearColor(1, 0, 1);
-	Mesh* sphere = Mesh::load(config::MGE_MODEL_PATH + "sphere_smooth.obj");
-
-	Camera* mainCamera = new Camera("mainCamera", glm::vec3(0, 2, 5));
-	_world->add(mainCamera);
-	_world->setMainCamera(mainCamera);
-	//TODO camera behaviour here
 
 	PhysicsWorld* physicsWorld = new PhysicsWorld(0,-10,0);
+	AddPhysicsWorld(physicsWorld);
+
+	Texture* terrainSnow = Texture::load(config::MGE_TEXTURE_PATH + "terrain/diffuse4.jpg");
+	Texture* waterTexture = Texture::load(config::MGE_TEXTURE_PATH + "terrain/water.jpg");
+
+	AbstractMaterial* snowMat = new TextureMaterial(terrainSnow);
+	AbstractMaterial* waterMat = new TextureMaterial(waterTexture);
+
+	Mesh* sphereMesh = Mesh::load(config::MGE_MODEL_PATH + "sphere_smooth.obj");
+	Mesh* planeMesh = Mesh::load(config::MGE_MODEL_PATH + "plane_8192.obj");
+
+	Camera* mainCamera = new Camera("mainCamera", glm::vec3(0, 2, 15));
+	world->add(mainCamera);
+	world->setMainCamera(mainCamera);
+	//TODO camera behaviour here
+
+	GameObject* plane = new GameObject("plane", glm::vec3(0, 0, 0));
+	plane->scale(glm::vec3(10, 10, 10));
+	plane->setMesh(planeMesh);
+	plane->setMaterial(snowMat);
+	world->add(plane);
+
+	GameObject* sphere = new GameObject("sphere", glm::vec3(0, 5, 0));
+	sphere->setMesh(sphereMesh);
+	sphere->setMaterial(waterMat);
+	world->add(sphere);
 
 	/*======================================================================================================================================================*/
 	//shapes
@@ -66,17 +92,7 @@ void Project3::_initializeScene()
 	btRigidBody* fallRigidBody = new btRigidBody(fallRigidBodyCI);
 	physicsWorld->GetDynamicsWorld()->addRigidBody(fallRigidBody);
 
-	//stepping
-	for (int i = 0; i < 300; i++) 
-	{
-
-		physicsWorld->GetDynamicsWorld()->stepSimulation(1 / 60.f, 10);
-
-		btTransform trans;
-		fallRigidBody->getMotionState()->getWorldTransform(trans);
-
-		std::cout << "sphere height: " << trans.getOrigin().getY() << std::endl;
-	}
+	
 	/*======================================================================================================================================================*/
 }
 
@@ -90,6 +106,8 @@ void Project3::_updateHud()
 {
 	string debugInfo = "";
 	debugInfo += string("FPS: ") + std::to_string((int)_fps) + "\n";
+	_hud->setDebugInfo(debugInfo);
+	_hud->draw();
 }
 
 Project3::~Project3()

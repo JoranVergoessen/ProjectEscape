@@ -4,6 +4,7 @@
 #include <SFML/Graphics.hpp>
 #include <GL/glew.h>
 #include <string>
+#include "PhysicsWorld.hpp"
 using namespace std;
 
 class World;
@@ -29,7 +30,11 @@ class AbstractGame
         virtual void initialize();
         //run the actual process of updating all objects, rendering them and processing events
         virtual void run();
+		virtual void SetTargetFps(float pFps);
+		static PhysicsWorld* physicsWorld;
+		void AddPhysicsWorld(PhysicsWorld* pPW);
 
+		static World* world;              //the root game object that represents our scene
     protected:
 
         //methods above delegate behaviour to the methods below so that you can override it in a subclass
@@ -57,8 +62,8 @@ class AbstractGame
 
 		sf::RenderWindow* _window;  //sfml window to render into
 		Renderer* _renderer;        //the renderer class to render the world
-		World* _world;              //the root game object that represents our scene
 		float _fps;                 //stores the real fps
+		float _targetFps = 60.0f;
 
     private:
         AbstractGame(const AbstractGame&);

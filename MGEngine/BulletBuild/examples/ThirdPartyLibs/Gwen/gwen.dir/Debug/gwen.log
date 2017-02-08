@@ -1,0 +1,141 @@
+﻿  Building Custom Rule D:/School/2nd year/Project 3/MGEngine/bullet3/examples/ThirdPartyLibs/Gwen/CMakeLists.txt
+  CMake does not need to re-run because D:\School\2nd year\Project 3\MGEngine\BulletBuild\examples\ThirdPartyLibs\Gwen\CMakeFiles\generate.stamp is up-to-date.
+  Anim.cpp
+D:\progs\VS\VC\include\yvals.h(419): warning CRT0000: "_STATIC_CPPLIB is deprecated"
+  BaseRender.cpp
+D:\progs\VS\VC\include\yvals.h(419): warning CRT0000: "_STATIC_CPPLIB is deprecated"
+  DragAndDrop.cpp
+D:\progs\VS\VC\include\yvals.h(419): warning CRT0000: "_STATIC_CPPLIB is deprecated"
+  Gwen.cpp
+D:\progs\VS\VC\include\yvals.h(419): warning CRT0000: "_STATIC_CPPLIB is deprecated"
+  Hook.cpp
+D:\progs\VS\VC\include\yvals.h(419): warning CRT0000: "_STATIC_CPPLIB is deprecated"
+  Skin.cpp
+D:\progs\VS\VC\include\yvals.h(419): warning CRT0000: "_STATIC_CPPLIB is deprecated"
+  ToolTip.cpp
+D:\progs\VS\VC\include\yvals.h(419): warning CRT0000: "_STATIC_CPPLIB is deprecated"
+  Utility.cpp
+D:\progs\VS\VC\include\yvals.h(419): warning CRT0000: "_STATIC_CPPLIB is deprecated"
+  events.cpp
+D:\progs\VS\VC\include\yvals.h(419): warning CRT0000: "_STATIC_CPPLIB is deprecated"
+  inputhandler.cpp
+D:\progs\VS\VC\include\yvals.h(419): warning CRT0000: "_STATIC_CPPLIB is deprecated"
+  Base.cpp
+D:\progs\VS\VC\include\yvals.h(419): warning CRT0000: "_STATIC_CPPLIB is deprecated"
+  Button.cpp
+D:\progs\VS\VC\include\yvals.h(419): warning CRT0000: "_STATIC_CPPLIB is deprecated"
+  Canvas.cpp
+D:\progs\VS\VC\include\yvals.h(419): warning CRT0000: "_STATIC_CPPLIB is deprecated"
+  CheckBox.cpp
+D:\progs\VS\VC\include\yvals.h(419): warning CRT0000: "_STATIC_CPPLIB is deprecated"
+  ColorControls.cpp
+D:\progs\VS\VC\include\yvals.h(419): warning CRT0000: "_STATIC_CPPLIB is deprecated"
+  ColorPicker.cpp
+D:\progs\VS\VC\include\yvals.h(419): warning CRT0000: "_STATIC_CPPLIB is deprecated"
+  ComboBox.cpp
+D:\progs\VS\VC\include\yvals.h(419): warning CRT0000: "_STATIC_CPPLIB is deprecated"
+  CrossSplitter.cpp
+D:\progs\VS\VC\include\yvals.h(419): warning CRT0000: "_STATIC_CPPLIB is deprecated"
+  DockBase.cpp
+D:\progs\VS\VC\include\yvals.h(419): warning CRT0000: "_STATIC_CPPLIB is deprecated"
+  DockedTabControl.cpp
+D:\progs\VS\VC\include\yvals.h(419): warning CRT0000: "_STATIC_CPPLIB is deprecated"
+  Generating Code...
+  Compiling...
+  Dragger.cpp
+D:\progs\VS\VC\include\yvals.h(419): warning CRT0000: "_STATIC_CPPLIB is deprecated"
+  GroupBox.cpp
+D:\progs\VS\VC\include\yvals.h(419): warning CRT0000: "_STATIC_CPPLIB is deprecated"
+  HSVColorPicker.cpp
+D:\progs\VS\VC\include\yvals.h(419): warning CRT0000: "_STATIC_CPPLIB is deprecated"
+  HorizontalScrollBar.cpp
+D:\progs\VS\VC\include\yvals.h(419): warning CRT0000: "_STATIC_CPPLIB is deprecated"
+  HorizontalSlider.cpp
+D:\progs\VS\VC\include\yvals.h(419): warning CRT0000: "_STATIC_CPPLIB is deprecated"
+  ImagePanel.cpp
+D:\progs\VS\VC\include\yvals.h(419): warning CRT0000: "_STATIC_CPPLIB is deprecated"
+  Label.cpp
+D:\progs\VS\VC\include\yvals.h(419): warning CRT0000: "_STATIC_CPPLIB is deprecated"
+  LabelClickable.cpp
+D:\progs\VS\VC\include\yvals.h(419): warning CRT0000: "_STATIC_CPPLIB is deprecated"
+  ListBox.cpp
+D:\progs\VS\VC\include\yvals.h(419): warning CRT0000: "_STATIC_CPPLIB is deprecated"
+  Menu.cpp
+D:\progs\VS\VC\include\yvals.h(419): warning CRT0000: "_STATIC_CPPLIB is deprecated"
+  MenuItem.cpp
+D:\progs\VS\VC\include\yvals.h(419): warning CRT0000: "_STATIC_CPPLIB is deprecated"
+  MenuStrip.cpp
+D:\progs\VS\VC\include\yvals.h(419): warning CRT0000: "_STATIC_CPPLIB is deprecated"
+  NumericUpDown.cpp
+D:\progs\VS\VC\include\yvals.h(419): warning CRT0000: "_STATIC_CPPLIB is deprecated"
+  PanelListPanel.cpp
+D:\progs\VS\VC\include\yvals.h(419): warning CRT0000: "_STATIC_CPPLIB is deprecated"
+  ProgressBar.cpp
+D:\progs\VS\VC\include\yvals.h(419): warning CRT0000: "_STATIC_CPPLIB is deprecated"
+  Properties.cpp
+D:\progs\VS\VC\include\yvals.h(419): warning CRT0000: "_STATIC_CPPLIB is deprecated"
+  RadioButton.cpp
+D:\progs\VS\VC\include\yvals.h(419): warning CRT0000: "_STATIC_CPPLIB is deprecated"
+  RadioButtonController.cpp
+D:\progs\VS\VC\include\yvals.h(419): warning CRT0000: "_STATIC_CPPLIB is deprecated"
+  ResizableControl.cpp
+D:\progs\VS\VC\include\yvals.h(419): warning CRT0000: "_STATIC_CPPLIB is deprecated"
+  Resizer.cpp
+D:\progs\VS\VC\include\yvals.h(419): warning CRT0000: "_STATIC_CPPLIB is deprecated"
+  Generating Code...
+  Compiling...
+  RichLabel.cpp
+D:\progs\VS\VC\include\yvals.h(419): warning CRT0000: "_STATIC_CPPLIB is deprecated"
+  ScrollBar.cpp
+D:\progs\VS\VC\include\yvals.h(419): warning CRT0000: "_STATIC_CPPLIB is deprecated"
+  ScrollBarBar.cpp
+D:\progs\VS\VC\include\yvals.h(419): warning CRT0000: "_STATIC_CPPLIB is deprecated"
+  ScrollBarButton.cpp
+D:\progs\VS\VC\include\yvals.h(419): warning CRT0000: "_STATIC_CPPLIB is deprecated"
+  ScrollControl.cpp
+D:\progs\VS\VC\include\yvals.h(419): warning CRT0000: "_STATIC_CPPLIB is deprecated"
+  Slider.cpp
+D:\progs\VS\VC\include\yvals.h(419): warning CRT0000: "_STATIC_CPPLIB is deprecated"
+  SplitterBar.cpp
+D:\progs\VS\VC\include\yvals.h(419): warning CRT0000: "_STATIC_CPPLIB is deprecated"
+  TabButton.cpp
+D:\progs\VS\VC\include\yvals.h(419): warning CRT0000: "_STATIC_CPPLIB is deprecated"
+  TabControl.cpp
+D:\progs\VS\VC\include\yvals.h(419): warning CRT0000: "_STATIC_CPPLIB is deprecated"
+  TabStrip.cpp
+D:\progs\VS\VC\include\yvals.h(419): warning CRT0000: "_STATIC_CPPLIB is deprecated"
+  Text.cpp
+D:\progs\VS\VC\include\yvals.h(419): warning CRT0000: "_STATIC_CPPLIB is deprecated"
+  TextBox.cpp
+D:\progs\VS\VC\include\yvals.h(419): warning CRT0000: "_STATIC_CPPLIB is deprecated"
+  TextBoxNumeric.cpp
+D:\progs\VS\VC\include\yvals.h(419): warning CRT0000: "_STATIC_CPPLIB is deprecated"
+  TreeControl.cpp
+D:\progs\VS\VC\include\yvals.h(419): warning CRT0000: "_STATIC_CPPLIB is deprecated"
+  TreeNode.cpp
+D:\progs\VS\VC\include\yvals.h(419): warning CRT0000: "_STATIC_CPPLIB is deprecated"
+  VerticalScrollBar.cpp
+D:\progs\VS\VC\include\yvals.h(419): warning CRT0000: "_STATIC_CPPLIB is deprecated"
+  VerticalSlider.cpp
+D:\progs\VS\VC\include\yvals.h(419): warning CRT0000: "_STATIC_CPPLIB is deprecated"
+  WindowControl.cpp
+D:\progs\VS\VC\include\yvals.h(419): warning CRT0000: "_STATIC_CPPLIB is deprecated"
+  FileOpen.cpp
+D:\progs\VS\VC\include\yvals.h(419): warning CRT0000: "_STATIC_CPPLIB is deprecated"
+  FileSave.cpp
+D:\progs\VS\VC\include\yvals.h(419): warning CRT0000: "_STATIC_CPPLIB is deprecated"
+  Generating Code...
+  Compiling...
+  Query.cpp
+D:\progs\VS\VC\include\yvals.h(419): warning CRT0000: "_STATIC_CPPLIB is deprecated"
+  Null.cpp
+D:\progs\VS\VC\include\yvals.h(419): warning CRT0000: "_STATIC_CPPLIB is deprecated"
+  Windows.cpp
+D:\progs\VS\VC\include\yvals.h(419): warning CRT0000: "_STATIC_CPPLIB is deprecated"
+  OpenGL_DebugFont.cpp
+D:\progs\VS\VC\include\yvals.h(419): warning CRT0000: "_STATIC_CPPLIB is deprecated"
+  Generating Code...
+Null.obj : warning LNK4221: This object file does not define any previously undefined public symbols, so it will not be used by any link operation that consumes this library
+Query.obj : warning LNK4221: This object file does not define any previously undefined public symbols, so it will not be used by any link operation that consumes this library
+ImagePanel.obj : warning LNK4221: This object file does not define any previously undefined public symbols, so it will not be used by any link operation that consumes this library
+  gwen.vcxproj -> D:\School\2nd year\Project 3\MGEngine\BulletBuild\lib\Debug\gwen_Debug.lib

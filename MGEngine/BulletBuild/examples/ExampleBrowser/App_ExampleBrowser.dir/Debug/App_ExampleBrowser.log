@@ -1,0 +1,937 @@
+﻿  main.cpp
+  ExampleEntries.cpp
+  Chain.cpp
+D:\School\2nd year\Project 3\MGEngine\bullet3\examples\ExtendedTutorials\Chain.cpp(133): warning C4316: 'ChainExample': object allocated on the heap may not be aligned 16
+  Bridge.cpp
+D:\School\2nd year\Project 3\MGEngine\bullet3\examples\ExtendedTutorials\Bridge.cpp(146): warning C4316: 'BridgeExample': object allocated on the heap may not be aligned 16
+  RigidBodyFromObj.cpp
+D:\School\2nd year\Project 3\MGEngine\bullet3\examples\ExtendedTutorials\RigidBodyFromObj.cpp(161): warning C4316: 'RigidBodyFromObjExample': object allocated on the heap may not be aligned 16
+  SimpleBox.cpp
+D:\School\2nd year\Project 3\MGEngine\bullet3\examples\ExtendedTutorials\SimpleBox.cpp(114): warning C4316: 'SimpleBoxExample': object allocated on the heap may not be aligned 16
+  MultipleBoxes.cpp
+D:\School\2nd year\Project 3\MGEngine\bullet3\examples\ExtendedTutorials\MultipleBoxes.cpp(116): warning C4316: 'MultipleBoxesExample': object allocated on the heap may not be aligned 16
+  SimpleCloth.cpp
+D:\School\2nd year\Project 3\MGEngine\bullet3\examples\ExtendedTutorials\SimpleCloth.cpp(158): warning C4316: 'SimpleClothExample': object allocated on the heap may not be aligned 16
+  SimpleJoint.cpp
+D:\School\2nd year\Project 3\MGEngine\bullet3\examples\ExtendedTutorials\SimpleJoint.cpp(129): warning C4316: 'SimpleJointExample': object allocated on the heap may not be aligned 16
+  NewtonsCradle.cpp
+D:\School\2nd year\Project 3\MGEngine\bullet3\examples\ExtendedTutorials\NewtonsCradle.cpp(368): warning C4316: 'NewtonsCradleExample': object allocated on the heap may not be aligned 16
+  InclinedPlane.cpp
+D:\School\2nd year\Project 3\MGEngine\bullet3\examples\ExtendedTutorials\InclinedPlane.cpp(371): warning C4316: 'InclinedPlaneExample': object allocated on the heap may not be aligned 16
+  MultiPendulum.cpp
+D:\School\2nd year\Project 3\MGEngine\bullet3\examples\ExtendedTutorials\MultiPendulum.cpp(424): warning C4316: 'MultiPendulumExample': object allocated on the heap may not be aligned 16
+  geometry.cpp
+  model.cpp
+  tgaimage.cpp
+  our_gl.cpp
+  TinyRenderer.cpp
+  TinyRendererVisualShapeConverter.cpp
+D:\School\2nd year\Project 3\MGEngine\bullet3\examples\SharedMemory\TinyRendererVisualShapeConverter.cpp(122): warning C4316: 'TinyRendererVisualShapeConverterInternalData': object allocated on the heap may not be aligned 16
+D:\School\2nd year\Project 3\MGEngine\bullet3\examples\SharedMemory\TinyRendererVisualShapeConverter.cpp(613): warning C4316: 'TinyRenderObjectData': object allocated on the heap may not be aligned 16
+  IKTrajectoryHelper.cpp
+  PhysicsServer.cpp
+  Generating Code...
+  Compiling...
+  PhysicsClientSharedMemory.cpp
+  PhysicsClientSharedMemory_C_API.cpp
+  PhysicsClient.cpp
+  PhysicsClientC_API.cpp
+D:\School\2nd year\Project 3\MGEngine\bullet3\examples\SharedMemory\PhysicsClientC_API.cpp(547): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+  PhysicsServerExample.cpp
+D:\School\2nd year\Project 3\MGEngine\bullet3\examples\SharedMemory\PhysicsServerExample.cpp(1917): warning C4316: 'MultiThreadedOpenGLGuiHelper': object allocated on the heap may not be aligned 16
+D:\School\2nd year\Project 3\MGEngine\bullet3\examples\SharedMemory\PhysicsServerExample.cpp(1921): warning C4316: 'PhysicsServerExample': object allocated on the heap may not be aligned 16
+  PhysicsClientExample.cpp
+  PosixSharedMemory.cpp
+  Win32SharedMemory.cpp
+  InProcessMemory.cpp
+  PhysicsServerSharedMemory.cpp
+  PhysicsDirect.cpp
+  PhysicsDirectC_API.cpp
+  SharedMemoryInProcessPhysicsC_API.cpp
+  PhysicsLoopBack.cpp
+  PhysicsLoopBackC_API.cpp
+  PhysicsServerCommandProcessor.cpp
+D:\School\2nd year\Project 3\MGEngine\bullet3\examples\SharedMemory\PhysicsServerCommandProcessor.cpp(742): warning C4316: 'PhysicsServerCommandProcessorInternalData': object allocated on the heap may not be aligned 16
+D:\School\2nd year\Project 3\MGEngine\bullet3\examples\SharedMemory\PhysicsServerCommandProcessor.cpp(2192): warning C4316: 'btMultiBodyJointFeedback': object allocated on the heap may not be aligned 16
+  BasicExample.cpp
+D:\School\2nd year\Project 3\MGEngine\bullet3\examples\BasicDemo\BasicExample.cpp(143): warning C4316: 'BasicExample': object allocated on the heap may not be aligned 16
+  InverseDynamicsExample.cpp
+D:\School\2nd year\Project 3\MGEngine\bullet3\examples\InverseDynamics\InverseDynamicsExample.cpp(365): warning C4316: 'InverseDynamicsExample': object allocated on the heap may not be aligned 16
+  InverseKinematicsExample.cpp
+  ForkLiftDemo.cpp
+D:\School\2nd year\Project 3\MGEngine\bullet3\examples\ForkLift\ForkLiftDemo.cpp(1213): warning C4316: 'ForkLiftDemo': object allocated on the heap may not be aligned 16
+  Generating Code...
+  Compiling...
+  MultiThreadedDemo.cpp
+  CommonRigidBodyMTBase.cpp
+  Tutorial.cpp
+  Dof6ConstraintTutorial.cpp
+D:\School\2nd year\Project 3\MGEngine\bullet3\examples\Tutorial\Dof6ConstraintTutorial.cpp(533): warning C4316: 'Dof6ConstraintTutorial': object allocated on the heap may not be aligned 16
+  NN3DWalkers.cpp
+d:\school\2nd year\project 3\mgengine\bullet3\examples\evolution\NN3DWalkersTimeWarpBase.h(792): warning C4018: '>': signed/unsigned mismatch
+d:\school\2nd year\project 3\mgengine\bullet3\examples\evolution\NN3DWalkersTimeWarpBase.h(809): warning C4018: '>': signed/unsigned mismatch
+D:\School\2nd year\Project 3\MGEngine\bullet3\examples\Evolution\NN3DWalkers.cpp(705): warning C4316: 'NNWalker': object allocated on the heap may not be aligned 16
+D:\School\2nd year\Project 3\MGEngine\bullet3\examples\Evolution\NN3DWalkers.cpp(790): warning C4316: 'NN3DWalkersExample': object allocated on the heap may not be aligned 16
+  NewtonsRopeCradle.cpp
+D:\School\2nd year\Project 3\MGEngine\bullet3\examples\ExtendedTutorials\NewtonsRopeCradle.cpp(374): warning C4316: 'NewtonsRopeCradleExample': object allocated on the heap may not be aligned 16
+  CollisionSdkC_Api.cpp
+  CollisionTutorialBullet2.cpp
+  Bullet2CollisionSdk.cpp
+  RealTimeBullet3CollisionSdk.cpp
+  GyroscopicSetup.cpp
+D:\School\2nd year\Project 3\MGEngine\bullet3\examples\GyroscopicDemo\GyroscopicSetup.cpp(137): warning C4316: 'GyroscopicSetup': object allocated on the heap may not be aligned 16
+  Planar2D.cpp
+D:\School\2nd year\Project 3\MGEngine\bullet3\examples\Planar2D\Planar2D.cpp(337): warning C4316: 'Planar2D': object allocated on the heap may not be aligned 16
+  RollingFrictionDemo.cpp
+D:\School\2nd year\Project 3\MGEngine\bullet3\examples\RollingFrictionDemo\RollingFrictionDemo.cpp(292): warning C4316: 'RollingFrictionDemo': object allocated on the heap may not be aligned 16
+  FractureDemo.cpp
+D:\School\2nd year\Project 3\MGEngine\bullet3\examples\FractureDemo\FractureDemo.cpp(408): warning C4316: 'FractureDemo': object allocated on the heap may not be aligned 16
+  btFractureBody.cpp
+  btFractureDynamicsWorld.cpp
+  MotorDemo.cpp
+D:\School\2nd year\Project 3\MGEngine\bullet3\examples\DynamicControlDemo\MotorDemo.cpp(449): warning C4316: 'MotorDemo': object allocated on the heap may not be aligned 16
+  MultiThreadingExample.cpp
+  b3PosixThreadSupport.cpp
+  b3Win32ThreadSupport.cpp
+  Generating Code...
+  Compiling...
+  b3ThreadSupportInterface.cpp
+  TinyRendererSetup.cpp
+D:\School\2nd year\Project 3\MGEngine\bullet3\examples\RenderingExamples\TinyRendererSetup.cpp(151): warning C4316: 'TinyRendererSetupInternalData': object allocated on the heap may not be aligned 16
+D:\School\2nd year\Project 3\MGEngine\bullet3\examples\RenderingExamples\TinyRendererSetup.cpp(195): warning C4316: 'TinyRenderObjectData': object allocated on the heap may not be aligned 16
+  TimeSeriesCanvas.cpp
+  TimeSeriesFontData.cpp
+  DynamicTexturedCubeDemo.cpp
+  TinyVRGui.cpp
+  GripperGraspExample.cpp
+  b3RobotSimAPI.cpp
+D:\School\2nd year\Project 3\MGEngine\bullet3\examples\RoboticsLearning\b3RobotSimAPI.cpp(531): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+D:\School\2nd year\Project 3\MGEngine\bullet3\examples\RoboticsLearning\b3RobotSimAPI.cpp(538): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+D:\School\2nd year\Project 3\MGEngine\bullet3\examples\RoboticsLearning\b3RobotSimAPI.cpp(922): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+  R2D2GraspExample.cpp
+  KukaGraspExample.cpp
+D:\School\2nd year\Project 3\MGEngine\bullet3\examples\RoboticsLearning\KukaGraspExample.cpp(315): warning C4316: 'KukaGraspExample': object allocated on the heap may not be aligned 16
+  CoordinateSystemDemo.cpp
+  RaytracerSetup.cpp
+D:\School\2nd year\Project 3\MGEngine\bullet3\examples\RenderingExamples\RaytracerSetup.cpp(125): warning C4316: 'RaytracerInternalData': object allocated on the heap may not be aligned 16
+  RenderInstancingDemo.cpp
+  TimeSeriesExample.cpp
+  BenchmarkDemo.cpp
+D:\School\2nd year\Project 3\MGEngine\bullet3\examples\Benchmarks\BenchmarkDemo.cpp(1311): warning C4316: 'BenchmarkDemo': object allocated on the heap may not be aligned 16
+  RaytestDemo.cpp
+D:\School\2nd year\Project 3\MGEngine\bullet3\examples\Raycast\RaytestDemo.cpp(331): warning C4316: 'RaytestDemo': object allocated on the heap may not be aligned 16
+  SerializeSetup.cpp
+D:\School\2nd year\Project 3\MGEngine\bullet3\examples\Importers\ImportBullet\SerializeSetup.cpp(113): warning C4316: 'SerializeSetup': object allocated on the heap may not be aligned 16
+  b3ImportMeshUtility.cpp
+D:\School\2nd year\Project 3\MGEngine\bullet3\examples\Importers\ImportMeshUtility\b3ImportMeshUtility.cpp(35): warning C4018: '<': signed/unsigned mismatch
+  btWorldImporter.cpp
+D:\School\2nd year\Project 3\MGEngine\bullet3\Extras\Serialize\BulletWorldImporter\btWorldImporter.cpp(1004): warning C4800: 'char': forcing value to bool 'true' or 'false' (performance warning)
+D:\School\2nd year\Project 3\MGEngine\bullet3\Extras\Serialize\BulletWorldImporter\btWorldImporter.cpp(1324): warning C4800: 'char': forcing value to bool 'true' or 'false' (performance warning)
+  btBulletWorldImporter.cpp
+  Generating Code...
+  Compiling...
+  bChunk.cpp
+  bFile.cpp
+  bDNA.cpp
+  btBulletFile.cpp
+  BulletMJCFImporter.cpp
+D:\School\2nd year\Project 3\MGEngine\bullet3\examples\Importers\ImportMJCFDemo\BulletMJCFImporter.cpp(270): warning C4316: 'UrdfModel': object allocated on the heap may not be aligned 16
+D:\School\2nd year\Project 3\MGEngine\bullet3\examples\Importers\ImportMJCFDemo\BulletMJCFImporter.cpp(280): warning C4316: 'UrdfModel': object allocated on the heap may not be aligned 16
+D:\School\2nd year\Project 3\MGEngine\bullet3\examples\Importers\ImportMJCFDemo\BulletMJCFImporter.cpp(283): warning C4316: 'UrdfLink': object allocated on the heap may not be aligned 16
+D:\School\2nd year\Project 3\MGEngine\bullet3\examples\Importers\ImportMJCFDemo\BulletMJCFImporter.cpp(438): warning C4316: 'UrdfJoint': object allocated on the heap may not be aligned 16
+D:\School\2nd year\Project 3\MGEngine\bullet3\examples\Importers\ImportMJCFDemo\BulletMJCFImporter.cpp(793): warning C4316: 'UrdfLink': object allocated on the heap may not be aligned 16
+D:\School\2nd year\Project 3\MGEngine\bullet3\examples\Importers\ImportMJCFDemo\BulletMJCFImporter.cpp(975): warning C4316: 'UrdfJoint': object allocated on the heap may not be aligned 16
+  ImportMJCFSetup.cpp
+D:\School\2nd year\Project 3\MGEngine\bullet3\examples\Importers\ImportMJCFDemo\ImportMJCFSetup.cpp(369): warning C4316: 'ImportMJCFSetup': object allocated on the heap may not be aligned 16
+  BspConverter.cpp
+  BspLoader.cpp
+  ImportBspExample.cpp
+D:\School\2nd year\Project 3\MGEngine\bullet3\examples\Importers\ImportBsp\ImportBspExample.cpp(290): warning C4316: 'BspDemo': object allocated on the heap may not be aligned 16
+  ImportColladaSetup.cpp
+D:\School\2nd year\Project 3\MGEngine\bullet3\examples\Importers\ImportColladaDemo\ImportColladaSetup.cpp(212): warning C4316: 'ImportColladaSetup': object allocated on the heap may not be aligned 16
+  LoadMeshFromCollada.cpp
+  ImportObjExample.cpp
+D:\School\2nd year\Project 3\MGEngine\bullet3\examples\Importers\ImportObjDemo\ImportObjExample.cpp(115): warning C4316: 'ImportObjSetup': object allocated on the heap may not be aligned 16
+  LoadMeshFromObj.cpp
+  Wavefront2GLInstanceGraphicsShape.cpp
+D:\School\2nd year\Project 3\MGEngine\bullet3\examples\Importers\ImportObjDemo\Wavefront2GLInstanceGraphicsShape.cpp(52): warning C4018: '<': signed/unsigned mismatch
+D:\School\2nd year\Project 3\MGEngine\bullet3\examples\Importers\ImportObjDemo\Wavefront2GLInstanceGraphicsShape.cpp(79): warning C4018: '<': signed/unsigned mismatch
+D:\School\2nd year\Project 3\MGEngine\bullet3\examples\Importers\ImportObjDemo\Wavefront2GLInstanceGraphicsShape.cpp(104): warning C4018: '<': signed/unsigned mismatch
+  ImportSTLSetup.cpp
+D:\School\2nd year\Project 3\MGEngine\bullet3\examples\Importers\ImportSTLDemo\ImportSTLSetup.cpp(102): warning C4316: 'ImportSTLSetup': object allocated on the heap may not be aligned 16
+  ImportSDFSetup.cpp
+D:\School\2nd year\Project 3\MGEngine\bullet3\examples\Importers\ImportSDFDemo\ImportSDFSetup.cpp(338): warning C4316: 'ImportSDFSetup': object allocated on the heap may not be aligned 16
+  ImportURDFSetup.cpp
+D:\School\2nd year\Project 3\MGEngine\bullet3\examples\Importers\ImportURDFDemo\ImportURDFSetup.cpp(408): warning C4316: 'ImportUrdfSetup': object allocated on the heap may not be aligned 16
+  URDF2Bullet.cpp
+  MyMultiBodyCreator.cpp
+D:\School\2nd year\Project 3\MGEngine\bullet3\examples\Importers\ImportURDFDemo\MyMultiBodyCreator.cpp(65): warning C4316: 'GenericConstraintUserInfo': object allocated on the heap may not be aligned 16
+D:\School\2nd year\Project 3\MGEngine\bullet3\examples\Importers\ImportURDFDemo\MyMultiBodyCreator.cpp(148): warning C4316: 'GenericConstraintUserInfo': object allocated on the heap may not be aligned 16
+D:\School\2nd year\Project 3\MGEngine\bullet3\examples\Importers\ImportURDFDemo\MyMultiBodyCreator.cpp(172): warning C4316: 'GenericConstraintUserInfo': object allocated on the heap may not be aligned 16
+  UrdfParser.cpp
+D:\School\2nd year\Project 3\MGEngine\bullet3\examples\Importers\ImportURDFDemo\UrdfParser.cpp(553): warning C4316: 'UrdfMaterial': object allocated on the heap may not be aligned 16
+D:\School\2nd year\Project 3\MGEngine\bullet3\examples\Importers\ImportURDFDemo\UrdfParser.cpp(587): warning C4316: 'UrdfMaterial': object allocated on the heap may not be aligned 16
+D:\School\2nd year\Project 3\MGEngine\bullet3\examples\Importers\ImportURDFDemo\UrdfParser.cpp(1336): warning C4316: 'UrdfMaterial': object allocated on the heap may not be aligned 16
+D:\School\2nd year\Project 3\MGEngine\bullet3\examples\Importers\ImportURDFDemo\UrdfParser.cpp(1359): warning C4316: 'UrdfLink': object allocated on the heap may not be aligned 16
+D:\School\2nd year\Project 3\MGEngine\bullet3\examples\Importers\ImportURDFDemo\UrdfParser.cpp(1407): warning C4316: 'UrdfJoint': object allocated on the heap may not be aligned 16
+D:\School\2nd year\Project 3\MGEngine\bullet3\examples\Importers\ImportURDFDemo\UrdfParser.cpp(1495): warning C4316: 'UrdfModel': object allocated on the heap may not be aligned 16
+D:\School\2nd year\Project 3\MGEngine\bullet3\examples\Importers\ImportURDFDemo\UrdfParser.cpp(1531): warning C4316: 'UrdfMaterial': object allocated on the heap may not be aligned 16
+D:\School\2nd year\Project 3\MGEngine\bullet3\examples\Importers\ImportURDFDemo\UrdfParser.cpp(1554): warning C4316: 'UrdfLink': object allocated on the heap may not be aligned 16
+D:\School\2nd year\Project 3\MGEngine\bullet3\examples\Importers\ImportURDFDemo\UrdfParser.cpp(1602): warning C4316: 'UrdfJoint': object allocated on the heap may not be aligned 16
+  Generating Code...
+  Compiling...
+  urdfStringSplit.cpp
+  BulletUrdfImporter.cpp
+  VoronoiFractureDemo.cpp
+D:\School\2nd year\Project 3\MGEngine\bullet3\examples\VoronoiFracture\VoronoiFractureDemo.cpp(829): warning C4316: 'VoronoiFractureDemo': object allocated on the heap may not be aligned 16
+  btConvexConvexMprAlgorithm.cpp
+  Hinge2Vehicle.cpp
+D:\School\2nd year\Project 3\MGEngine\bullet3\examples\Vehicles\Hinge2Vehicle.cpp(1177): warning C4316: 'Hinge2Vehicle': object allocated on the heap may not be aligned 16
+  Pendulum.cpp
+D:\School\2nd year\Project 3\MGEngine\bullet3\examples\MultiBody\Pendulum.cpp(225): warning C4316: 'Pendulum': object allocated on the heap may not be aligned 16
+  MultiBodySoftContact.cpp
+D:\School\2nd year\Project 3\MGEngine\bullet3\examples\MultiBody\MultiBodySoftContact.cpp(172): warning C4316: 'MultiBodySoftContact': object allocated on the heap may not be aligned 16
+  TestJointTorqueSetup.cpp
+D:\School\2nd year\Project 3\MGEngine\bullet3\examples\MultiBody\TestJointTorqueSetup.cpp(221): warning C4316: 'btMultiBodyJointFeedback': object allocated on the heap may not be aligned 16
+D:\School\2nd year\Project 3\MGEngine\bullet3\examples\MultiBody\TestJointTorqueSetup.cpp(433): warning C4316: 'TestJointTorqueSetup': object allocated on the heap may not be aligned 16
+  InvertedPendulumPDControl.cpp
+D:\School\2nd year\Project 3\MGEngine\bullet3\examples\MultiBody\InvertedPendulumPDControl.cpp(363): warning C4316: 'btMultiBodyJointFeedback': object allocated on the heap may not be aligned 16
+D:\School\2nd year\Project 3\MGEngine\bullet3\examples\MultiBody\InvertedPendulumPDControl.cpp(464): warning C4316: 'InvertedPendulumPDControl': object allocated on the heap may not be aligned 16
+  MultiBodyConstraintFeedback.cpp
+D:\School\2nd year\Project 3\MGEngine\bullet3\examples\MultiBody\MultiBodyConstraintFeedback.cpp(217): warning C4316: 'btMultiBodyJointFeedback': object allocated on the heap may not be aligned 16
+D:\School\2nd year\Project 3\MGEngine\bullet3\examples\MultiBody\MultiBodyConstraintFeedback.cpp(430): warning C4316: 'MultiBodyConstraintFeedbackSetup': object allocated on the heap may not be aligned 16
+  MultiDofDemo.cpp
+D:\School\2nd year\Project 3\MGEngine\bullet3\examples\MultiBody\MultiDofDemo.cpp(448): warning C4316: 'MultiDofDemo': object allocated on the heap may not be aligned 16
+  RigidBodySoftContact.cpp
+D:\School\2nd year\Project 3\MGEngine\bullet3\examples\RigidBody\RigidBodySoftContact.cpp(188): warning C4316: 'RigidBodySoftContact': object allocated on the heap may not be aligned 16
+  TestHingeTorque.cpp
+D:\School\2nd year\Project 3\MGEngine\bullet3\examples\Constraints\TestHingeTorque.cpp(240): warning C4316: 'TestHingeTorque': object allocated on the heap may not be aligned 16
+  ConstraintDemo.cpp
+D:\School\2nd year\Project 3\MGEngine\bullet3\examples\Constraints\ConstraintDemo.cpp(887): warning C4316: 'AllConstraintDemo': object allocated on the heap may not be aligned 16
+  Dof6Spring2Setup.cpp
+D:\School\2nd year\Project 3\MGEngine\bullet3\examples\Constraints\Dof6Spring2Setup.cpp(500): warning C4316: 'Dof6Spring2Setup': object allocated on the heap may not be aligned 16
+  ConstraintPhysicsSetup.cpp
+D:\School\2nd year\Project 3\MGEngine\bullet3\examples\Constraints\ConstraintPhysicsSetup.cpp(160): warning C4316: 'ConstraintPhysicsSetup': object allocated on the heap may not be aligned 16
+  stb_image.cpp
+  tiny_obj_loader.cpp
+  tinystr.cpp
+  tinyxml.cpp
+  Generating Code...
+  Compiling...
+  tinyxmlerror.cpp
+  tinyxmlparser.cpp
+  InProcessExampleBrowser.cpp
+  Generating Code...
+BulletExampleBrowserLib_Debug.lib(OpenGLExampleBrowser.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MTd_StaticDebug' in main.obj
+BulletExampleBrowserLib_Debug.lib(b3ResourcePath.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MTd_StaticDebug' in main.obj
+BulletExampleBrowserLib_Debug.lib(gwenUserInterface.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MTd_StaticDebug' in main.obj
+BulletExampleBrowserLib_Debug.lib(GwenParameterInterface.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MTd_StaticDebug' in main.obj
+BulletExampleBrowserLib_Debug.lib(GwenProfileWindow.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MTd_StaticDebug' in main.obj
+BulletExampleBrowserLib_Debug.lib(GwenTextureWindow.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MTd_StaticDebug' in main.obj
+BulletExampleBrowserLib_Debug.lib(GraphingTexture.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MTd_StaticDebug' in main.obj
+BulletExampleBrowserLib_Debug.lib(OpenGLGuiHelper.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MTd_StaticDebug' in main.obj
+BulletExampleBrowserLib_Debug.lib(CollisionShape2TriangleMesh.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MTd_StaticDebug' in main.obj
+BulletExampleBrowserLib_Debug.lib(GL_ShapeDrawer.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MTd_StaticDebug' in main.obj
+BulletSoftBody_Debug.lib(btSoftBody.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MTd_StaticDebug' in main.obj
+BulletSoftBody_Debug.lib(btSoftRigidDynamicsWorld.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MTd_StaticDebug' in main.obj
+BulletSoftBody_Debug.lib(btSoftBodyHelpers.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MTd_StaticDebug' in main.obj
+BulletSoftBody_Debug.lib(btSoftBodyRigidBodyCollisionConfiguration.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MTd_StaticDebug' in main.obj
+BulletSoftBody_Debug.lib(btDefaultSoftBodySolver.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MTd_StaticDebug' in main.obj
+BulletSoftBody_Debug.lib(btSoftRigidCollisionAlgorithm.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MTd_StaticDebug' in main.obj
+BulletSoftBody_Debug.lib(btSoftBodyConcaveCollisionAlgorithm.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MTd_StaticDebug' in main.obj
+BulletSoftBody_Debug.lib(btSoftSoftCollisionAlgorithm.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MTd_StaticDebug' in main.obj
+BulletDynamics_Debug.lib(btDiscreteDynamicsWorld.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MTd_StaticDebug' in main.obj
+BulletDynamics_Debug.lib(btRigidBody.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MTd_StaticDebug' in main.obj
+BulletDynamics_Debug.lib(btPoint2PointConstraint.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MTd_StaticDebug' in main.obj
+BulletDynamics_Debug.lib(btSequentialImpulseConstraintSolver.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MTd_StaticDebug' in main.obj
+BulletDynamics_Debug.lib(btSliderConstraint.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MTd_StaticDebug' in main.obj
+BulletDynamics_Debug.lib(btMultiBody.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MTd_StaticDebug' in main.obj
+BulletDynamics_Debug.lib(btMultiBodyConstraintSolver.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MTd_StaticDebug' in main.obj
+BulletDynamics_Debug.lib(btMultiBodyPoint2Point.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MTd_StaticDebug' in main.obj
+BulletDynamics_Debug.lib(btMultiBodyFixedConstraint.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MTd_StaticDebug' in main.obj
+BulletDynamics_Debug.lib(btMultiBodySliderConstraint.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MTd_StaticDebug' in main.obj
+BulletDynamics_Debug.lib(btMultiBodyJointMotor.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MTd_StaticDebug' in main.obj
+BulletDynamics_Debug.lib(btMultiBodyDynamicsWorld.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MTd_StaticDebug' in main.obj
+BulletDynamics_Debug.lib(btTypedConstraint.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MTd_StaticDebug' in main.obj
+BulletDynamics_Debug.lib(btHingeConstraint.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MTd_StaticDebug' in main.obj
+BulletDynamics_Debug.lib(btRaycastVehicle.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MTd_StaticDebug' in main.obj
+BulletDynamics_Debug.lib(btDantzigLCP.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MTd_StaticDebug' in main.obj
+BulletDynamics_Debug.lib(btMLCPSolver.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MTd_StaticDebug' in main.obj
+BulletDynamics_Debug.lib(btDiscreteDynamicsWorldMt.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MTd_StaticDebug' in main.obj
+BulletDynamics_Debug.lib(btGeneric6DofSpring2Constraint.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MTd_StaticDebug' in main.obj
+BulletDynamics_Debug.lib(btNNCGConstraintSolver.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MTd_StaticDebug' in main.obj
+BulletDynamics_Debug.lib(btLemkeAlgorithm.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MTd_StaticDebug' in main.obj
+BulletDynamics_Debug.lib(btConeTwistConstraint.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MTd_StaticDebug' in main.obj
+BulletDynamics_Debug.lib(btGeneric6DofConstraint.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MTd_StaticDebug' in main.obj
+BulletDynamics_Debug.lib(btGeneric6DofSpringConstraint.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MTd_StaticDebug' in main.obj
+BulletDynamics_Debug.lib(btGearConstraint.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MTd_StaticDebug' in main.obj
+BulletDynamics_Debug.lib(btMultiBodyJointLimitConstraint.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MTd_StaticDebug' in main.obj
+BulletDynamics_Debug.lib(btFixedConstraint.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MTd_StaticDebug' in main.obj
+BulletDynamics_Debug.lib(btHinge2Constraint.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MTd_StaticDebug' in main.obj
+BulletDynamics_Debug.lib(btUniversalConstraint.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MTd_StaticDebug' in main.obj
+BulletDynamics_Debug.lib(btMultiBodyConstraint.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MTd_StaticDebug' in main.obj
+BulletDynamics_Debug.lib(btWheelInfo.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MTd_StaticDebug' in main.obj
+BulletDynamics_Debug.lib(btContactConstraint.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MTd_StaticDebug' in main.obj
+BulletDynamics_Debug.lib(btSimulationIslandManagerMt.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MTd_StaticDebug' in main.obj
+BulletCollision_Debug.lib(btCollisionObject.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MTd_StaticDebug' in main.obj
+BulletCollision_Debug.lib(btCollisionDispatcher.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MTd_StaticDebug' in main.obj
+BulletCollision_Debug.lib(btDefaultCollisionConfiguration.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MTd_StaticDebug' in main.obj
+BulletCollision_Debug.lib(btDbvtBroadphase.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MTd_StaticDebug' in main.obj
+BulletCollision_Debug.lib(btConvexHullShape.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MTd_StaticDebug' in main.obj
+BulletCollision_Debug.lib(btCollisionShape.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MTd_StaticDebug' in main.obj
+BulletCollision_Debug.lib(btConvexShape.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MTd_StaticDebug' in main.obj
+BulletCollision_Debug.lib(btShapeHull.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MTd_StaticDebug' in main.obj
+BulletCollision_Debug.lib(btOverlappingPairCache.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MTd_StaticDebug' in main.obj
+BulletCollision_Debug.lib(btCollisionWorld.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MTd_StaticDebug' in main.obj
+BulletCollision_Debug.lib(btCompoundShape.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MTd_StaticDebug' in main.obj
+BulletCollision_Debug.lib(btAxisSweep3.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MTd_StaticDebug' in main.obj
+BulletCollision_Debug.lib(btBox2dBox2dCollisionAlgorithm.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MTd_StaticDebug' in main.obj
+BulletCollision_Debug.lib(btConvex2dConvex2dAlgorithm.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MTd_StaticDebug' in main.obj
+BulletCollision_Debug.lib(btUnionFind.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MTd_StaticDebug' in main.obj
+BulletCollision_Debug.lib(btStridingMeshInterface.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MTd_StaticDebug' in main.obj
+BulletCollision_Debug.lib(btTriangleIndexVertexArray.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MTd_StaticDebug' in main.obj
+BulletCollision_Debug.lib(btBvhTriangleMeshShape.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MTd_StaticDebug' in main.obj
+BulletCollision_Debug.lib(btTriangleMesh.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MTd_StaticDebug' in main.obj
+BulletCollision_Debug.lib(btOptimizedBvh.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MTd_StaticDebug' in main.obj
+BulletCollision_Debug.lib(btScaledBvhTriangleMeshShape.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MTd_StaticDebug' in main.obj
+BulletCollision_Debug.lib(btMultiSphereShape.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MTd_StaticDebug' in main.obj
+BulletCollision_Debug.lib(btPolyhedralConvexShape.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MTd_StaticDebug' in main.obj
+BulletCollision_Debug.lib(btActivatingCollisionAlgorithm.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MTd_StaticDebug' in main.obj
+BulletCollision_Debug.lib(btDbvt.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MTd_StaticDebug' in main.obj
+BulletCollision_Debug.lib(btCollisionAlgorithm.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MTd_StaticDebug' in main.obj
+BulletCollision_Debug.lib(btManifoldResult.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MTd_StaticDebug' in main.obj
+BulletCollision_Debug.lib(btSimulationIslandManager.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MTd_StaticDebug' in main.obj
+BulletCollision_Debug.lib(btConvexConvexAlgorithm.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MTd_StaticDebug' in main.obj
+BulletCollision_Debug.lib(btEmptyCollisionAlgorithm.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MTd_StaticDebug' in main.obj
+BulletCollision_Debug.lib(btConvexConcaveCollisionAlgorithm.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MTd_StaticDebug' in main.obj
+BulletCollision_Debug.lib(btCompoundCollisionAlgorithm.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MTd_StaticDebug' in main.obj
+BulletCollision_Debug.lib(btCompoundCompoundCollisionAlgorithm.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MTd_StaticDebug' in main.obj
+BulletCollision_Debug.lib(btConvexPlaneCollisionAlgorithm.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MTd_StaticDebug' in main.obj
+BulletCollision_Debug.lib(btBoxBoxCollisionAlgorithm.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MTd_StaticDebug' in main.obj
+BulletCollision_Debug.lib(btSphereSphereCollisionAlgorithm.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MTd_StaticDebug' in main.obj
+BulletCollision_Debug.lib(btSphereTriangleCollisionAlgorithm.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MTd_StaticDebug' in main.obj
+BulletCollision_Debug.lib(btQuantizedBvh.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MTd_StaticDebug' in main.obj
+BulletCollision_Debug.lib(btConvexPolyhedron.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MTd_StaticDebug' in main.obj
+BulletCollision_Debug.lib(btPolyhedralContactClipping.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MTd_StaticDebug' in main.obj
+BulletCollision_Debug.lib(btHashedSimplePairCache.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MTd_StaticDebug' in main.obj
+BulletInverseDynamicsUtils_Debug.lib(MultiBodyTreeCreator.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MTd_StaticDebug' in main.obj
+BulletInverseDynamicsUtils_Debug.lib(btMultiBodyTreeCreator.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MTd_StaticDebug' in main.obj
+BulletInverseDynamics_Debug.lib(MultiBodyTree.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MTd_StaticDebug' in main.obj
+BulletInverseDynamics_Debug.lib(IDMath.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MTd_StaticDebug' in main.obj
+BulletInverseDynamics_Debug.lib(MultiBodyTreeImpl.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MTd_StaticDebug' in main.obj
+BulletInverseDynamics_Debug.lib(MultiBodyTreeInitCache.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MTd_StaticDebug' in main.obj
+LinearMath_Debug.lib(btQuickprof.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MTd_StaticDebug' in main.obj
+LinearMath_Debug.lib(btGeometryUtil.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MTd_StaticDebug' in main.obj
+LinearMath_Debug.lib(btConvexHullComputer.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MTd_StaticDebug' in main.obj
+LinearMath_Debug.lib(btConvexHull.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MTd_StaticDebug' in main.obj
+OpenGLWindow_Debug.lib(SimpleOpenGL2App.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MTd_StaticDebug' in main.obj
+OpenGLWindow_Debug.lib(SimpleOpenGL3App.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MTd_StaticDebug' in main.obj
+OpenGLWindow_Debug.lib(TwFonts.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MTd_StaticDebug' in main.obj
+OpenGLWindow_Debug.lib(GLInstancingRenderer.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MTd_StaticDebug' in main.obj
+gwen_Debug.lib(BaseRender.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MTd_StaticDebug' in main.obj
+gwen_Debug.lib(events.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MTd_StaticDebug' in main.obj
+gwen_Debug.lib(OpenGL_DebugFont.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MTd_StaticDebug' in main.obj
+gwen_Debug.lib(Skin.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MTd_StaticDebug' in main.obj
+gwen_Debug.lib(Base.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MTd_StaticDebug' in main.obj
+gwen_Debug.lib(Canvas.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MTd_StaticDebug' in main.obj
+gwen_Debug.lib(Label.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MTd_StaticDebug' in main.obj
+gwen_Debug.lib(Button.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MTd_StaticDebug' in main.obj
+gwen_Debug.lib(ScrollControl.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MTd_StaticDebug' in main.obj
+gwen_Debug.lib(TreeControl.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MTd_StaticDebug' in main.obj
+gwen_Debug.lib(MenuItem.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MTd_StaticDebug' in main.obj
+gwen_Debug.lib(Menu.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MTd_StaticDebug' in main.obj
+gwen_Debug.lib(ComboBox.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MTd_StaticDebug' in main.obj
+gwen_Debug.lib(MenuStrip.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MTd_StaticDebug' in main.obj
+gwen_Debug.lib(TabControl.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MTd_StaticDebug' in main.obj
+gwen_Debug.lib(ListBox.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MTd_StaticDebug' in main.obj
+gwen_Debug.lib(ColorPicker.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MTd_StaticDebug' in main.obj
+gwen_Debug.lib(HorizontalSlider.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MTd_StaticDebug' in main.obj
+gwen_Debug.lib(TextBox.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MTd_StaticDebug' in main.obj
+gwen_Debug.lib(Utility.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MTd_StaticDebug' in main.obj
+gwen_Debug.lib(Windows.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MTd_StaticDebug' in main.obj
+gwen_Debug.lib(ResizableControl.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MTd_StaticDebug' in main.obj
+gwen_Debug.lib(WindowControl.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MTd_StaticDebug' in main.obj
+gwen_Debug.lib(Gwen.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MTd_StaticDebug' in main.obj
+gwen_Debug.lib(DragAndDrop.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MTd_StaticDebug' in main.obj
+gwen_Debug.lib(ToolTip.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MTd_StaticDebug' in main.obj
+gwen_Debug.lib(Anim.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MTd_StaticDebug' in main.obj
+gwen_Debug.lib(inputhandler.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MTd_StaticDebug' in main.obj
+gwen_Debug.lib(Text.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MTd_StaticDebug' in main.obj
+gwen_Debug.lib(VerticalScrollBar.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MTd_StaticDebug' in main.obj
+gwen_Debug.lib(HorizontalScrollBar.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MTd_StaticDebug' in main.obj
+gwen_Debug.lib(TreeNode.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MTd_StaticDebug' in main.obj
+gwen_Debug.lib(TabButton.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MTd_StaticDebug' in main.obj
+gwen_Debug.lib(TabStrip.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MTd_StaticDebug' in main.obj
+gwen_Debug.lib(ScrollBarButton.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MTd_StaticDebug' in main.obj
+gwen_Debug.lib(GroupBox.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MTd_StaticDebug' in main.obj
+gwen_Debug.lib(TextBoxNumeric.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MTd_StaticDebug' in main.obj
+gwen_Debug.lib(Slider.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MTd_StaticDebug' in main.obj
+gwen_Debug.lib(Resizer.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MTd_StaticDebug' in main.obj
+gwen_Debug.lib(Dragger.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MTd_StaticDebug' in main.obj
+gwen_Debug.lib(Hook.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MTd_StaticDebug' in main.obj
+gwen_Debug.lib(ScrollBar.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MTd_StaticDebug' in main.obj
+gwen_Debug.lib(ScrollBarBar.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MTd_StaticDebug' in main.obj
+BussIK_Debug.lib(Jacobian.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MTd_StaticDebug' in main.obj
+BussIK_Debug.lib(Node.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MTd_StaticDebug' in main.obj
+BussIK_Debug.lib(Tree.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MTd_StaticDebug' in main.obj
+BussIK_Debug.lib(LinearR3.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MTd_StaticDebug' in main.obj
+BussIK_Debug.lib(VectorRn.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MTd_StaticDebug' in main.obj
+BussIK_Debug.lib(MatrixRmn.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MTd_StaticDebug' in main.obj
+msvcprtd.lib(MSVCP140D.dll) : error LNK2005: "public: __thiscall std::_Lockit::_Lockit(int)" (??0_Lockit@std@@QAE@H@Z) already defined in libcpmtd.lib(xlock.obj)
+msvcprtd.lib(MSVCP140D.dll) : error LNK2005: "public: __thiscall std::_Lockit::~_Lockit(void)" (??1_Lockit@std@@QAE@XZ) already defined in libcpmtd.lib(xlock.obj)
+msvcprtd.lib(MSVCP140D.dll) : error LNK2005: "void __cdecl std::_Debug_message(wchar_t const *,wchar_t const *,unsigned int)" (?_Debug_message@std@@YAXPB_W0I@Z) already defined in libcpmtd.lib(stdthrow.obj)
+msvcprtd.lib(MSVCP140D.dll) : error LNK2005: "void __cdecl std::_Xbad_alloc(void)" (?_Xbad_alloc@std@@YAXXZ) already defined in libcpmtd.lib(xthrow.obj)
+msvcprtd.lib(MSVCP140D.dll) : error LNK2005: "void __cdecl std::_Xlength_error(char const *)" (?_Xlength_error@std@@YAXPBD@Z) already defined in libcpmtd.lib(xthrow.obj)
+msvcprtd.lib(MSVCP140D.dll) : error LNK2005: "void __cdecl std::_Xout_of_range(char const *)" (?_Xout_of_range@std@@YAXPBD@Z) already defined in libcpmtd.lib(xthrow.obj)
+msvcprtd.lib(MSVCP140D.dll) : error LNK2005: "public: __thiscall std::locale::id::operator unsigned int(void)" (??Bid@locale@std@@QAEIXZ) already defined in main.obj
+msvcprtd.lib(MSVCP140D.dll) : error LNK2005: "private: static class std::locale::_Locimp * __cdecl std::locale::_Init(bool)" (?_Init@locale@std@@CAPAV_Locimp@12@_N@Z) already defined in libcpmtd.lib(locale0.obj)
+msvcprtd.lib(MSVCP140D.dll) : error LNK2005: "private: static class std::locale::_Locimp * __cdecl std::locale::_Getgloballocale(void)" (?_Getgloballocale@locale@std@@CAPAV_Locimp@12@XZ) already defined in libcpmtd.lib(locale0.obj)
+msvcprtd.lib(MSVCP140D.dll) : error LNK2005: "public: char const * __thiscall std::ctype<wchar_t>::widen(char const *,char const *,wchar_t *)const " (?widen@?$ctype@_W@std@@QBEPBDPBD0PA_W@Z) already defined in gwen_Debug.lib(BaseRender.obj)
+msvcprtd.lib(MSVCP140D.dll) : error LNK2005: "public: wchar_t const * __thiscall std::ctype<wchar_t>::narrow(wchar_t const *,wchar_t const *,char,char *)const " (?narrow@?$ctype@_W@std@@QBEPB_WPB_W0DPAD@Z) already defined in gwen_Debug.lib(OpenGL_DebugFont.obj)
+msvcprtd.lib(MSVCP140D.dll) : error LNK2005: "public: static unsigned int __cdecl std::ctype<wchar_t>::_Getcat(class std::locale::facet const * *,class std::locale const *)" (?_Getcat@?$ctype@_W@std@@SAIPAPBVfacet@locale@2@PBV42@@Z) already defined in gwen_Debug.lib(BaseRender.obj)
+msvcprtd.lib(MSVCP140D.dll) : error LNK2005: "protected: __thiscall std::basic_streambuf<char,struct std::char_traits<char> >::basic_streambuf<char,struct std::char_traits<char> >(void)" (??0?$basic_streambuf@DU?$char_traits@D@std@@@std@@IAE@XZ) already defined in main.obj
+msvcprtd.lib(MSVCP140D.dll) : error LNK2005: "public: virtual __thiscall std::basic_streambuf<char,struct std::char_traits<char> >::~basic_streambuf<char,struct std::char_traits<char> >(void)" (??1?$basic_streambuf@DU?$char_traits@D@std@@@std@@UAE@XZ) already defined in main.obj
+msvcprtd.lib(MSVCP140D.dll) : error LNK2005: "protected: char * __thiscall std::basic_streambuf<char,struct std::char_traits<char> >::eback(void)const " (?eback@?$basic_streambuf@DU?$char_traits@D@std@@@std@@IBEPADXZ) already defined in main.obj
+msvcprtd.lib(MSVCP140D.dll) : error LNK2005: "protected: char * __thiscall std::basic_streambuf<char,struct std::char_traits<char> >::gptr(void)const " (?gptr@?$basic_streambuf@DU?$char_traits@D@std@@@std@@IBEPADXZ) already defined in main.obj
+msvcprtd.lib(MSVCP140D.dll) : error LNK2005: "protected: char * __thiscall std::basic_streambuf<char,struct std::char_traits<char> >::pbase(void)const " (?pbase@?$basic_streambuf@DU?$char_traits@D@std@@@std@@IBEPADXZ) already defined in main.obj
+msvcprtd.lib(MSVCP140D.dll) : error LNK2005: "protected: char * __thiscall std::basic_streambuf<char,struct std::char_traits<char> >::pptr(void)const " (?pptr@?$basic_streambuf@DU?$char_traits@D@std@@@std@@IBEPADXZ) already defined in main.obj
+msvcprtd.lib(MSVCP140D.dll) : error LNK2005: "protected: char * __thiscall std::basic_streambuf<char,struct std::char_traits<char> >::egptr(void)const " (?egptr@?$basic_streambuf@DU?$char_traits@D@std@@@std@@IBEPADXZ) already defined in main.obj
+msvcprtd.lib(MSVCP140D.dll) : error LNK2005: "protected: void __thiscall std::basic_streambuf<char,struct std::char_traits<char> >::gbump(int)" (?gbump@?$basic_streambuf@DU?$char_traits@D@std@@@std@@IAEXH@Z) already defined in main.obj
+msvcprtd.lib(MSVCP140D.dll) : error LNK2005: "protected: void __thiscall std::basic_streambuf<char,struct std::char_traits<char> >::setg(char *,char *,char *)" (?setg@?$basic_streambuf@DU?$char_traits@D@std@@@std@@IAEXPAD00@Z) already defined in main.obj
+msvcprtd.lib(MSVCP140D.dll) : error LNK2005: "protected: char * __thiscall std::basic_streambuf<char,struct std::char_traits<char> >::epptr(void)const " (?epptr@?$basic_streambuf@DU?$char_traits@D@std@@@std@@IBEPADXZ) already defined in main.obj
+msvcprtd.lib(MSVCP140D.dll) : error LNK2005: "protected: void __thiscall std::basic_streambuf<char,struct std::char_traits<char> >::pbump(int)" (?pbump@?$basic_streambuf@DU?$char_traits@D@std@@@std@@IAEXH@Z) already defined in main.obj
+msvcprtd.lib(MSVCP140D.dll) : error LNK2005: "protected: void __thiscall std::basic_streambuf<char,struct std::char_traits<char> >::setp(char *,char *)" (?setp@?$basic_streambuf@DU?$char_traits@D@std@@@std@@IAEXPAD0@Z) already defined in main.obj
+msvcprtd.lib(MSVCP140D.dll) : error LNK2005: "protected: void __thiscall std::basic_streambuf<char,struct std::char_traits<char> >::setp(char *,char *,char *)" (?setp@?$basic_streambuf@DU?$char_traits@D@std@@@std@@IAEXPAD00@Z) already defined in main.obj
+msvcprtd.lib(MSVCP140D.dll) : error LNK2005: "protected: char * __thiscall std::basic_streambuf<char,struct std::char_traits<char> >::_Pninc(void)" (?_Pninc@?$basic_streambuf@DU?$char_traits@D@std@@@std@@IAEPADXZ) already defined in main.obj
+msvcprtd.lib(MSVCP140D.dll) : error LNK2005: "public: virtual __thiscall std::basic_ios<char,struct std::char_traits<char> >::~basic_ios<char,struct std::char_traits<char> >(void)" (??1?$basic_ios@DU?$char_traits@D@std@@@std@@UAE@XZ) already defined in main.obj
+msvcprtd.lib(MSVCP140D.dll) : error LNK2005: "protected: __thiscall std::basic_ios<char,struct std::char_traits<char> >::basic_ios<char,struct std::char_traits<char> >(void)" (??0?$basic_ios@DU?$char_traits@D@std@@@std@@IAE@XZ) already defined in main.obj
+msvcprtd.lib(MSVCP140D.dll) : error LNK2005: "public: __thiscall std::basic_istream<char,struct std::char_traits<char> >::basic_istream<char,struct std::char_traits<char> >(class std::basic_streambuf<char,struct std::char_traits<char> > *,bool)" (??0?$basic_istream@DU?$char_traits@D@std@@@std@@QAE@PAV?$basic_streambuf@DU?$char_traits@D@std@@@1@_N@Z) already defined in main.obj
+msvcprtd.lib(MSVCP140D.dll) : error LNK2005: "public: virtual __thiscall std::basic_istream<char,struct std::char_traits<char> >::~basic_istream<char,struct std::char_traits<char> >(void)" (??1?$basic_istream@DU?$char_traits@D@std@@@std@@UAE@XZ) already defined in main.obj
+msvcprtd.lib(MSVCP140D.dll) : error LNK2005: "public: class std::basic_istream<char,struct std::char_traits<char> > & __thiscall std::basic_istream<char,struct std::char_traits<char> >::operator>>(int &)" (??5?$basic_istream@DU?$char_traits@D@std@@@std@@QAEAAV01@AAH@Z) already defined in model.obj
+msvcprtd.lib(MSVCP140D.dll) : error LNK2005: "public: class std::basic_istream<char,struct std::char_traits<char> > & __thiscall std::basic_istream<char,struct std::char_traits<char> >::operator>>(float &)" (??5?$basic_istream@DU?$char_traits@D@std@@@std@@QAEAAV01@AAM@Z) already defined in model.obj
+msvcprtd.lib(MSVCP140D.dll) : error LNK2005: "bool __cdecl std::uncaught_exception(void)" (?uncaught_exception@std@@YA_NXZ) already defined in libcpmtd.lib(uncaught.obj)
+msvcprtd.lib(MSVCP140D.dll) : error LNK2005: "public: bool __thiscall std::ios_base::good(void)const " (?good@ios_base@std@@QBE_NXZ) already defined in main.obj
+msvcprtd.lib(MSVCP140D.dll) : error LNK2005: "public: int __thiscall std::ios_base::flags(void)const " (?flags@ios_base@std@@QBEHXZ) already defined in main.obj
+msvcprtd.lib(MSVCP140D.dll) : error LNK2005: "public: __int64 __thiscall std::ios_base::width(void)const " (?width@ios_base@std@@QBE_JXZ) already defined in model.obj
+msvcprtd.lib(MSVCP140D.dll) : error LNK2005: "public: __int64 __thiscall std::ios_base::width(__int64)" (?width@ios_base@std@@QAE_J_J@Z) already defined in model.obj
+msvcprtd.lib(MSVCP140D.dll) : error LNK2005: "public: int __thiscall std::basic_streambuf<char,struct std::char_traits<char> >::sputc(char)" (?sputc@?$basic_streambuf@DU?$char_traits@D@std@@@std@@QAEHD@Z) already defined in model.obj
+msvcprtd.lib(MSVCP140D.dll) : error LNK2005: "public: __int64 __thiscall std::basic_streambuf<char,struct std::char_traits<char> >::sputn(char const *,__int64)" (?sputn@?$basic_streambuf@DU?$char_traits@D@std@@@std@@QAE_JPBD_J@Z) already defined in model.obj
+msvcprtd.lib(MSVCP140D.dll) : error LNK2005: "public: void __thiscall std::basic_ios<char,struct std::char_traits<char> >::setstate(int,bool)" (?setstate@?$basic_ios@DU?$char_traits@D@std@@@std@@QAEXH_N@Z) already defined in main.obj
+msvcprtd.lib(MSVCP140D.dll) : error LNK2005: "public: class std::basic_ostream<char,struct std::char_traits<char> > * __thiscall std::basic_ios<char,struct std::char_traits<char> >::tie(void)const " (?tie@?$basic_ios@DU?$char_traits@D@std@@@std@@QBEPAV?$basic_ostream@DU?$char_traits@D@std@@@2@XZ) already defined in main.obj
+msvcprtd.lib(MSVCP140D.dll) : error LNK2005: "public: class std::basic_streambuf<char,struct std::char_traits<char> > * __thiscall std::basic_ios<char,struct std::char_traits<char> >::rdbuf(void)const " (?rdbuf@?$basic_ios@DU?$char_traits@D@std@@@std@@QBEPAV?$basic_streambuf@DU?$char_traits@D@std@@@2@XZ) already defined in main.obj
+msvcprtd.lib(MSVCP140D.dll) : error LNK2005: "public: char __thiscall std::basic_ios<char,struct std::char_traits<char> >::fill(void)const " (?fill@?$basic_ios@DU?$char_traits@D@std@@@std@@QBEDXZ) already defined in model.obj
+msvcprtd.lib(MSVCP140D.dll) : error LNK2005: "public: void __thiscall std::basic_ostream<char,struct std::char_traits<char> >::_Osfx(void)" (?_Osfx@?$basic_ostream@DU?$char_traits@D@std@@@std@@QAEXXZ) already defined in main.obj
+msvcprtd.lib(MSVCP140D.dll) : error LNK2005: "public: class std::basic_ostream<char,struct std::char_traits<char> > & __thiscall std::basic_ostream<char,struct std::char_traits<char> >::operator<<(int)" (??6?$basic_ostream@DU?$char_traits@D@std@@@std@@QAEAAV01@H@Z) already defined in tgaimage.obj
+msvcprtd.lib(MSVCP140D.dll) : error LNK2005: "public: class std::basic_ostream<char,struct std::char_traits<char> > & __thiscall std::basic_ostream<char,struct std::char_traits<char> >::flush(void)" (?flush@?$basic_ostream@DU?$char_traits@D@std@@@std@@QAEAAV12@XZ) already defined in main.obj
+LINK : warning LNK4098: defaultlib 'MSVCRTD' conflicts with use of other libs; use /NODEFAULTLIB:library
+gwen_Debug.lib(Dragger.obj) : warning LNK4049: locally defined symbol __invalid_parameter imported
+gwen_Debug.lib(Hook.obj) : warning LNK4049: locally defined symbol __invalid_parameter imported
+gwen_Debug.lib(ScrollBar.obj) : warning LNK4049: locally defined symbol __invalid_parameter imported
+gwen_Debug.lib(ScrollBarBar.obj) : warning LNK4049: locally defined symbol __invalid_parameter imported
+gwen_Debug.lib(GroupBox.obj) : warning LNK4049: locally defined symbol __invalid_parameter imported
+gwen_Debug.lib(TextBoxNumeric.obj) : warning LNK4049: locally defined symbol __invalid_parameter imported
+gwen_Debug.lib(Slider.obj) : warning LNK4049: locally defined symbol __invalid_parameter imported
+gwen_Debug.lib(Resizer.obj) : warning LNK4049: locally defined symbol __invalid_parameter imported
+gwen_Debug.lib(TreeNode.obj) : warning LNK4049: locally defined symbol __invalid_parameter imported
+gwen_Debug.lib(TabButton.obj) : warning LNK4049: locally defined symbol __invalid_parameter imported
+gwen_Debug.lib(TabStrip.obj) : warning LNK4049: locally defined symbol __invalid_parameter imported
+gwen_Debug.lib(ScrollBarButton.obj) : warning LNK4049: locally defined symbol __invalid_parameter imported
+gwen_Debug.lib(inputhandler.obj) : warning LNK4049: locally defined symbol __invalid_parameter imported
+gwen_Debug.lib(Text.obj) : warning LNK4049: locally defined symbol __invalid_parameter imported
+gwen_Debug.lib(VerticalScrollBar.obj) : warning LNK4049: locally defined symbol __invalid_parameter imported
+gwen_Debug.lib(HorizontalScrollBar.obj) : warning LNK4049: locally defined symbol __invalid_parameter imported
+gwen_Debug.lib(Windows.obj) : warning LNK4049: locally defined symbol __invalid_parameter imported
+gwen_Debug.lib(ResizableControl.obj) : warning LNK4049: locally defined symbol __invalid_parameter imported
+gwen_Debug.lib(WindowControl.obj) : warning LNK4049: locally defined symbol __invalid_parameter imported
+gwen_Debug.lib(Anim.obj) : warning LNK4049: locally defined symbol __invalid_parameter imported
+gwen_Debug.lib(ColorPicker.obj) : warning LNK4049: locally defined symbol __invalid_parameter imported
+gwen_Debug.lib(HorizontalSlider.obj) : warning LNK4049: locally defined symbol __invalid_parameter imported
+gwen_Debug.lib(TextBox.obj) : warning LNK4049: locally defined symbol __invalid_parameter imported
+gwen_Debug.lib(Utility.obj) : warning LNK4049: locally defined symbol __invalid_parameter imported
+gwen_Debug.lib(ComboBox.obj) : warning LNK4049: locally defined symbol __invalid_parameter imported
+gwen_Debug.lib(MenuStrip.obj) : warning LNK4049: locally defined symbol __invalid_parameter imported
+gwen_Debug.lib(TabControl.obj) : warning LNK4049: locally defined symbol __invalid_parameter imported
+gwen_Debug.lib(ListBox.obj) : warning LNK4049: locally defined symbol __invalid_parameter imported
+gwen_Debug.lib(ScrollControl.obj) : warning LNK4049: locally defined symbol __invalid_parameter imported
+gwen_Debug.lib(TreeControl.obj) : warning LNK4049: locally defined symbol __invalid_parameter imported
+gwen_Debug.lib(MenuItem.obj) : warning LNK4049: locally defined symbol __invalid_parameter imported
+gwen_Debug.lib(Menu.obj) : warning LNK4049: locally defined symbol __invalid_parameter imported
+gwen_Debug.lib(Base.obj) : warning LNK4049: locally defined symbol __invalid_parameter imported
+gwen_Debug.lib(Canvas.obj) : warning LNK4217: locally defined symbol __invalid_parameter imported in function "public: bool __thiscall std::_List_const_iterator<class std::_List_val<struct std::_List_simple_types<class Gwen::Controls::Base *> > >::operator==(class std::_List_const_iterator<class std::_List_val<struct std::_List_simple_types<class Gwen::Controls::Base *> > > const &)const " (??8?$_List_const_iterator@V?$_List_val@U?$_List_simple_types@PAVBase@Controls@Gwen@@@std@@@std@@@std@@QBE_NABV01@@Z)
+gwen_Debug.lib(Label.obj) : warning LNK4049: locally defined symbol __invalid_parameter imported
+gwen_Debug.lib(Button.obj) : warning LNK4049: locally defined symbol __invalid_parameter imported
+BulletExampleBrowserLib_Debug.lib(GwenTextureWindow.obj) : warning LNK4049: locally defined symbol __invalid_parameter imported
+gwen_Debug.lib(BaseRender.obj) : warning LNK4049: locally defined symbol __invalid_parameter imported
+gwen_Debug.lib(events.obj) : warning LNK4049: locally defined symbol __invalid_parameter imported
+gwen_Debug.lib(OpenGL_DebugFont.obj) : warning LNK4049: locally defined symbol __invalid_parameter imported
+BulletExampleBrowserLib_Debug.lib(OpenGLExampleBrowser.obj) : warning LNK4217: locally defined symbol __invalid_parameter imported in function "public: bool __thiscall std::_Tree_const_iterator<class std::_Tree_val<struct std::_Tree_simple_types<struct std::pair<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const ,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > > > > >::operator==(class std::_Tree_const_iterator<class std::_Tree_val<struct std::_Tree_simple_types<struct std::pair<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const ,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > > > > > const &)const " (??8?$_Tree_const_iterator@V?$_Tree_val@U?$_Tree_simple_types@U?$pair@$$CBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@V12@@std@@@std@@@std@@@std@@QBE_NABV01@@Z)
+BulletExampleBrowserLib_Debug.lib(gwenUserInterface.obj) : warning LNK4217: locally defined symbol __invalid_parameter imported in function "public: class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > & __thiscall std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >::assign(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &)" (?assign@?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@QAEAAV12@ABV12@@Z)
+BulletExampleBrowserLib_Debug.lib(GwenParameterInterface.obj) : warning LNK4049: locally defined symbol __invalid_parameter imported
+BulletExampleBrowserLib_Debug.lib(GwenProfileWindow.obj) : warning LNK4049: locally defined symbol __invalid_parameter imported
+gwen_Debug.lib(TreeNode.obj) : warning LNK4049: locally defined symbol _free imported
+gwen_Debug.lib(ListBox.obj) : warning LNK4217: locally defined symbol _free imported in function "public: class std::_List_const_iterator<class std::_List_val<struct std::_List_simple_types<class Gwen::Controls::Layout::TableRow *> > > __thiscall std::_List_const_iterator<class std::_List_val<struct std::_List_simple_types<class Gwen::Controls::Layout::TableRow *> > >::operator++(int)" (??E?$_List_const_iterator@V?$_List_val@U?$_List_simple_types@PAVTableRow@Layout@Controls@Gwen@@@std@@@std@@@std@@QAE?AV01@H@Z)
+gwen_Debug.lib(ColorPicker.obj) : warning LNK4049: locally defined symbol _free imported
+gwen_Debug.lib(WindowControl.obj) : warning LNK4049: locally defined symbol _free imported
+gwen_Debug.lib(Text.obj) : warning LNK4049: locally defined symbol _free imported
+gwen_Debug.lib(OpenGL_DebugFont.obj) : warning LNK4049: locally defined symbol _free imported
+gwen_Debug.lib(Base.obj) : warning LNK4049: locally defined symbol _free imported
+gwen_Debug.lib(Label.obj) : warning LNK4049: locally defined symbol _free imported
+gwen_Debug.lib(Menu.obj) : warning LNK4049: locally defined symbol _free imported
+OpenGLWindow_Debug.lib(fontstash.obj) : warning LNK4049: locally defined symbol _free imported
+OpenGLWindow_Debug.lib(GLInstancingRenderer.obj) : warning LNK4049: locally defined symbol _free imported
+OpenGLWindow_Debug.lib(opengl_fontstashcallbacks.obj) : warning LNK4049: locally defined symbol _free imported
+gwen_Debug.lib(BaseRender.obj) : warning LNK4049: locally defined symbol _free imported
+BulletExampleBrowserLib_Debug.lib(OpenGLExampleBrowser.obj) : warning LNK4217: locally defined symbol _free imported in function "public: virtual bool __thiscall OpenGLExampleBrowser::init(int,char * * const)" (?init@OpenGLExampleBrowser@@UAE_NHQAPAD@Z)
+Bullet3Common_Debug.lib(b3AlignedAllocator.obj) : warning LNK4049: locally defined symbol _free imported
+LinearMath_Debug.lib(btAlignedAllocator.obj) : warning LNK4049: locally defined symbol _free imported
+OpenGLWindow_Debug.lib(SimpleOpenGL3App.obj) : warning LNK4049: locally defined symbol _free imported
+OpenGLWindow_Debug.lib(fontstash.obj) : warning LNK4049: locally defined symbol _malloc imported
+OpenGLWindow_Debug.lib(GLInstancingRenderer.obj) : warning LNK4049: locally defined symbol _malloc imported
+OpenGLWindow_Debug.lib(opengl_fontstashcallbacks.obj) : warning LNK4049: locally defined symbol _malloc imported
+BulletExampleBrowserLib_Debug.lib(OpenGLExampleBrowser.obj) : warning LNK4217: locally defined symbol _malloc imported in function "public: bool __thiscall b3CommandLineArgs::GetCmdLineArgument<char *>(char const *,char * &)" (??$GetCmdLineArgument@PAD@b3CommandLineArgs@@QAE_NPBDAAPAD@Z)
+Bullet3Common_Debug.lib(b3AlignedAllocator.obj) : warning LNK4049: locally defined symbol _malloc imported
+LinearMath_Debug.lib(btAlignedAllocator.obj) : warning LNK4049: locally defined symbol _malloc imported
+OpenGLWindow_Debug.lib(SimpleOpenGL3App.obj) : warning LNK4049: locally defined symbol _malloc imported
+BulletExampleBrowserLib_Debug.lib(OpenGLExampleBrowser.obj) : warning LNK4217: locally defined symbol _exit imported in function "public: virtual bool __thiscall OpenGLExampleBrowser::init(int,char * * const)" (?init@OpenGLExampleBrowser@@UAE_NHQAPAD@Z)
+OpenGLWindow_Debug.lib(SimpleOpenGL2App.obj) : warning LNK4049: locally defined symbol _exit imported
+OpenGLWindow_Debug.lib(SimpleOpenGL3App.obj) : warning LNK4049: locally defined symbol _exit imported
+OpenGLWindow_Debug.lib(LoadShader.obj) : warning LNK4049: locally defined symbol _exit imported
+OpenGLWindow_Debug.lib(LoadShader.obj) : warning LNK4049: locally defined symbol ___acrt_iob_func imported
+LinearMath_Debug.lib(btPolarDecomposition.obj) : warning LNK4049: locally defined symbol ___acrt_iob_func imported
+LinearMath_Debug.lib(btConvexHull.obj) : warning LNK4049: locally defined symbol ___acrt_iob_func imported
+OpenGLWindow_Debug.lib(GLInstancingRenderer.obj) : warning LNK4049: locally defined symbol ___acrt_iob_func imported
+OpenGLWindow_Debug.lib(Win32OpenGLWindow.obj) : warning LNK4049: locally defined symbol ___acrt_iob_func imported
+LinearMath_Debug.lib(btQuickprof.obj) : warning LNK4049: locally defined symbol ___acrt_iob_func imported
+LinearMath_Debug.lib(btThreads.obj) : warning LNK4049: locally defined symbol ___acrt_iob_func imported
+LinearMath_Debug.lib(btGeometryUtil.obj) : warning LNK4049: locally defined symbol ___acrt_iob_func imported
+LinearMath_Debug.lib(btConvexHullComputer.obj) : warning LNK4049: locally defined symbol ___acrt_iob_func imported
+BulletCollision_Debug.lib(SphereTriangleDetector.obj) : warning LNK4049: locally defined symbol ___acrt_iob_func imported
+BulletInverseDynamicsUtils_Debug.lib(btMultiBodyTreeCreator.obj) : warning LNK4049: locally defined symbol ___acrt_iob_func imported
+BulletInverseDynamics_Debug.lib(IDMath.obj) : warning LNK4049: locally defined symbol ___acrt_iob_func imported
+BulletInverseDynamics_Debug.lib(MultiBodyTreeImpl.obj) : warning LNK4049: locally defined symbol ___acrt_iob_func imported
+BulletCollision_Debug.lib(btConvexPolyhedron.obj) : warning LNK4049: locally defined symbol ___acrt_iob_func imported
+BulletCollision_Debug.lib(btPolyhedralContactClipping.obj) : warning LNK4049: locally defined symbol ___acrt_iob_func imported
+BulletCollision_Debug.lib(btHashedSimplePairCache.obj) : warning LNK4049: locally defined symbol ___acrt_iob_func imported
+BulletCollision_Debug.lib(btBoxBoxDetector.obj) : warning LNK4049: locally defined symbol ___acrt_iob_func imported
+BulletCollision_Debug.lib(btRaycastCallback.obj) : warning LNK4049: locally defined symbol ___acrt_iob_func imported
+BulletCollision_Debug.lib(btContinuousConvexCollision.obj) : warning LNK4049: locally defined symbol ___acrt_iob_func imported
+BulletCollision_Debug.lib(btTriangleMeshShape.obj) : warning LNK4049: locally defined symbol ___acrt_iob_func imported
+BulletCollision_Debug.lib(btQuantizedBvh.obj) : warning LNK4049: locally defined symbol ___acrt_iob_func imported
+BulletCollision_Debug.lib(btCompoundCompoundCollisionAlgorithm.obj) : warning LNK4049: locally defined symbol ___acrt_iob_func imported
+BulletCollision_Debug.lib(btConvexPlaneCollisionAlgorithm.obj) : warning LNK4049: locally defined symbol ___acrt_iob_func imported
+BulletCollision_Debug.lib(btBoxBoxCollisionAlgorithm.obj) : warning LNK4049: locally defined symbol ___acrt_iob_func imported
+BulletCollision_Debug.lib(btSphereTriangleCollisionAlgorithm.obj) : warning LNK4049: locally defined symbol ___acrt_iob_func imported
+BulletCollision_Debug.lib(btSimulationIslandManager.obj) : warning LNK4049: locally defined symbol ___acrt_iob_func imported
+BulletCollision_Debug.lib(btConvexConvexAlgorithm.obj) : warning LNK4049: locally defined symbol ___acrt_iob_func imported
+BulletCollision_Debug.lib(btConvexConcaveCollisionAlgorithm.obj) : warning LNK4049: locally defined symbol ___acrt_iob_func imported
+BulletCollision_Debug.lib(btCompoundCollisionAlgorithm.obj) : warning LNK4049: locally defined symbol ___acrt_iob_func imported
+BulletCollision_Debug.lib(btGjkPairDetector.obj) : warning LNK4049: locally defined symbol ___acrt_iob_func imported
+BulletCollision_Debug.lib(btGjkEpa2.obj) : warning LNK4049: locally defined symbol ___acrt_iob_func imported
+BulletCollision_Debug.lib(btDbvt.obj) : warning LNK4049: locally defined symbol ___acrt_iob_func imported
+BulletCollision_Debug.lib(btManifoldResult.obj) : warning LNK4049: locally defined symbol ___acrt_iob_func imported
+BulletCollision_Debug.lib(btOptimizedBvh.obj) : warning LNK4049: locally defined symbol ___acrt_iob_func imported
+BulletCollision_Debug.lib(btMultiSphereShape.obj) : warning LNK4049: locally defined symbol ___acrt_iob_func imported
+BulletCollision_Debug.lib(btPolyhedralConvexShape.obj) : warning LNK4049: locally defined symbol ___acrt_iob_func imported
+BulletCollision_Debug.lib(btVoronoiSimplexSolver.obj) : warning LNK4049: locally defined symbol ___acrt_iob_func imported
+BulletCollision_Debug.lib(btStridingMeshInterface.obj) : warning LNK4049: locally defined symbol ___acrt_iob_func imported
+BulletCollision_Debug.lib(btTriangleIndexVertexArray.obj) : warning LNK4049: locally defined symbol ___acrt_iob_func imported
+BulletCollision_Debug.lib(btBvhTriangleMeshShape.obj) : warning LNK4049: locally defined symbol ___acrt_iob_func imported
+BulletCollision_Debug.lib(btTriangleMesh.obj) : warning LNK4049: locally defined symbol ___acrt_iob_func imported
+BulletCollision_Debug.lib(btConvex2dConvex2dAlgorithm.obj) : warning LNK4049: locally defined symbol ___acrt_iob_func imported
+BulletCollision_Debug.lib(btConeShape.obj) : warning LNK4049: locally defined symbol ___acrt_iob_func imported
+BulletCollision_Debug.lib(btUnionFind.obj) : warning LNK4049: locally defined symbol ___acrt_iob_func imported
+BulletCollision_Debug.lib(btSubSimplexConvexCast.obj) : warning LNK4049: locally defined symbol ___acrt_iob_func imported
+BulletCollision_Debug.lib(btPersistentManifold.obj) : warning LNK4049: locally defined symbol ___acrt_iob_func imported
+BulletCollision_Debug.lib(btCapsuleShape.obj) : warning LNK4049: locally defined symbol ___acrt_iob_func imported
+BulletCollision_Debug.lib(btStaticPlaneShape.obj) : warning LNK4049: locally defined symbol ___acrt_iob_func imported
+BulletCollision_Debug.lib(btBox2dBox2dCollisionAlgorithm.obj) : warning LNK4049: locally defined symbol ___acrt_iob_func imported
+BulletCollision_Debug.lib(btCollisionWorld.obj) : warning LNK4049: locally defined symbol ___acrt_iob_func imported
+BulletCollision_Debug.lib(btCylinderShape.obj) : warning LNK4049: locally defined symbol ___acrt_iob_func imported
+BulletCollision_Debug.lib(btCompoundShape.obj) : warning LNK4049: locally defined symbol ___acrt_iob_func imported
+BulletCollision_Debug.lib(btAxisSweep3.obj) : warning LNK4049: locally defined symbol ___acrt_iob_func imported
+BulletCollision_Debug.lib(btConvexInternalShape.obj) : warning LNK4049: locally defined symbol ___acrt_iob_func imported
+BulletCollision_Debug.lib(btSphereShape.obj) : warning LNK4049: locally defined symbol ___acrt_iob_func imported
+BulletCollision_Debug.lib(btShapeHull.obj) : warning LNK4049: locally defined symbol ___acrt_iob_func imported
+BulletCollision_Debug.lib(btOverlappingPairCache.obj) : warning LNK4049: locally defined symbol ___acrt_iob_func imported
+BulletCollision_Debug.lib(btBoxShape.obj) : warning LNK4049: locally defined symbol ___acrt_iob_func imported
+BulletCollision_Debug.lib(btDbvtBroadphase.obj) : warning LNK4049: locally defined symbol ___acrt_iob_func imported
+BulletCollision_Debug.lib(btConvexHullShape.obj) : warning LNK4049: locally defined symbol ___acrt_iob_func imported
+BulletCollision_Debug.lib(btConvexShape.obj) : warning LNK4049: locally defined symbol ___acrt_iob_func imported
+BulletDynamics_Debug.lib(btMultiBodyConstraint.obj) : warning LNK4049: locally defined symbol ___acrt_iob_func imported
+BulletDynamics_Debug.lib(btContactConstraint.obj) : warning LNK4049: locally defined symbol ___acrt_iob_func imported
+BulletDynamics_Debug.lib(btSimulationIslandManagerMt.obj) : warning LNK4049: locally defined symbol ___acrt_iob_func imported
+BulletCollision_Debug.lib(btCollisionDispatcher.obj) : warning LNK4049: locally defined symbol ___acrt_iob_func imported
+BulletDynamics_Debug.lib(btGearConstraint.obj) : warning LNK4049: locally defined symbol ___acrt_iob_func imported
+BulletDynamics_Debug.lib(btMultiBodyJointLimitConstraint.obj) : warning LNK4049: locally defined symbol ___acrt_iob_func imported
+BulletDynamics_Debug.lib(btHinge2Constraint.obj) : warning LNK4049: locally defined symbol ___acrt_iob_func imported
+BulletDynamics_Debug.lib(btUniversalConstraint.obj) : warning LNK4049: locally defined symbol ___acrt_iob_func imported
+BulletDynamics_Debug.lib(btLemkeAlgorithm.obj) : warning LNK4049: locally defined symbol ___acrt_iob_func imported
+BulletDynamics_Debug.lib(btConeTwistConstraint.obj) : warning LNK4049: locally defined symbol ___acrt_iob_func imported
+BulletDynamics_Debug.lib(btGeneric6DofConstraint.obj) : warning LNK4049: locally defined symbol ___acrt_iob_func imported
+BulletDynamics_Debug.lib(btGeneric6DofSpringConstraint.obj) : warning LNK4049: locally defined symbol ___acrt_iob_func imported
+BulletDynamics_Debug.lib(btMLCPSolver.obj) : warning LNK4049: locally defined symbol ___acrt_iob_func imported
+BulletDynamics_Debug.lib(btDiscreteDynamicsWorldMt.obj) : warning LNK4049: locally defined symbol ___acrt_iob_func imported
+BulletDynamics_Debug.lib(btGeneric6DofSpring2Constraint.obj) : warning LNK4049: locally defined symbol ___acrt_iob_func imported
+BulletDynamics_Debug.lib(btNNCGConstraintSolver.obj) : warning LNK4049: locally defined symbol ___acrt_iob_func imported
+BulletDynamics_Debug.lib(btTypedConstraint.obj) : warning LNK4049: locally defined symbol ___acrt_iob_func imported
+BulletDynamics_Debug.lib(btHingeConstraint.obj) : warning LNK4049: locally defined symbol ___acrt_iob_func imported
+BulletDynamics_Debug.lib(btRaycastVehicle.obj) : warning LNK4049: locally defined symbol ___acrt_iob_func imported
+BulletDynamics_Debug.lib(btDantzigLCP.obj) : warning LNK4049: locally defined symbol ___acrt_iob_func imported
+BulletDynamics_Debug.lib(btMultiBodyFixedConstraint.obj) : warning LNK4049: locally defined symbol ___acrt_iob_func imported
+BulletDynamics_Debug.lib(btMultiBodySliderConstraint.obj) : warning LNK4049: locally defined symbol ___acrt_iob_func imported
+BulletDynamics_Debug.lib(btMultiBodyJointMotor.obj) : warning LNK4049: locally defined symbol ___acrt_iob_func imported
+BulletDynamics_Debug.lib(btMultiBodyDynamicsWorld.obj) : warning LNK4049: locally defined symbol ___acrt_iob_func imported
+BulletDynamics_Debug.lib(btSliderConstraint.obj) : warning LNK4049: locally defined symbol ___acrt_iob_func imported
+BulletDynamics_Debug.lib(btMultiBody.obj) : warning LNK4049: locally defined symbol ___acrt_iob_func imported
+BulletDynamics_Debug.lib(btMultiBodyConstraintSolver.obj) : warning LNK4049: locally defined symbol ___acrt_iob_func imported
+BulletDynamics_Debug.lib(btMultiBodyPoint2Point.obj) : warning LNK4049: locally defined symbol ___acrt_iob_func imported
+BulletDynamics_Debug.lib(btDiscreteDynamicsWorld.obj) : warning LNK4049: locally defined symbol ___acrt_iob_func imported
+BulletDynamics_Debug.lib(btRigidBody.obj) : warning LNK4049: locally defined symbol ___acrt_iob_func imported
+BulletDynamics_Debug.lib(btPoint2PointConstraint.obj) : warning LNK4049: locally defined symbol ___acrt_iob_func imported
+BulletDynamics_Debug.lib(btSequentialImpulseConstraintSolver.obj) : warning LNK4049: locally defined symbol ___acrt_iob_func imported
+BulletSoftBody_Debug.lib(btSoftRigidDynamicsWorld.obj) : warning LNK4049: locally defined symbol ___acrt_iob_func imported
+BulletSoftBody_Debug.lib(btSoftBodyHelpers.obj) : warning LNK4049: locally defined symbol ___acrt_iob_func imported
+BulletSoftBody_Debug.lib(btDefaultSoftBodySolver.obj) : warning LNK4049: locally defined symbol ___acrt_iob_func imported
+BulletSoftBody_Debug.lib(btSoftBodyConcaveCollisionAlgorithm.obj) : warning LNK4049: locally defined symbol ___acrt_iob_func imported
+BulletExampleBrowserLib_Debug.lib(CollisionShape2TriangleMesh.obj) : warning LNK4049: locally defined symbol ___acrt_iob_func imported
+BulletExampleBrowserLib_Debug.lib(GL_ShapeDrawer.obj) : warning LNK4049: locally defined symbol ___acrt_iob_func imported
+Bullet3Common_Debug.lib(b3Logging.obj) : warning LNK4049: locally defined symbol ___acrt_iob_func imported
+BulletSoftBody_Debug.lib(btSoftBody.obj) : warning LNK4217: locally defined symbol ___acrt_iob_func imported in function __unwindfunclet$?initDefaults@btSoftBody@@QAEXXZ$0
+BulletExampleBrowserLib_Debug.lib(OpenGLExampleBrowser.obj) : warning LNK4217: locally defined symbol ___acrt_iob_func imported in function _printf
+BulletExampleBrowserLib_Debug.lib(GwenParameterInterface.obj) : warning LNK4049: locally defined symbol ___acrt_iob_func imported
+BulletExampleBrowserLib_Debug.lib(GraphingTexture.obj) : warning LNK4049: locally defined symbol ___acrt_iob_func imported
+BulletExampleBrowserLib_Debug.lib(OpenGLGuiHelper.obj) : warning LNK4049: locally defined symbol ___acrt_iob_func imported
+BulletExampleBrowserLib_Debug.lib(OpenGLExampleBrowser.obj) : warning LNK4217: locally defined symbol _fclose imported in function "void __cdecl MyKeyboardCallback(int,int)" (?MyKeyboardCallback@@YAXHH@Z)
+BulletExampleBrowserLib_Debug.lib(b3ResourcePath.obj) : warning LNK4049: locally defined symbol _fclose imported
+OpenGLWindow_Debug.lib(fontstash.obj) : warning LNK4049: locally defined symbol _fclose imported
+OpenGLWindow_Debug.lib(opengl_fontstashcallbacks.obj) : warning LNK4049: locally defined symbol _fclose imported
+BulletExampleBrowserLib_Debug.lib(OpenGLExampleBrowser.obj) : warning LNK4217: locally defined symbol _fgets imported in function "void __cdecl loadCurrentSettings(char const *,class b3CommandLineArgs &)" (?loadCurrentSettings@@YAXPBDAAVb3CommandLineArgs@@@Z)
+BulletExampleBrowserLib_Debug.lib(OpenGLExampleBrowser.obj) : warning LNK4217: locally defined symbol _fopen imported in function "void __cdecl MyKeyboardCallback(int,int)" (?MyKeyboardCallback@@YAXHH@Z)
+BulletExampleBrowserLib_Debug.lib(b3ResourcePath.obj) : warning LNK4049: locally defined symbol _fopen imported
+OpenGLWindow_Debug.lib(fontstash.obj) : warning LNK4049: locally defined symbol _fopen imported
+OpenGLWindow_Debug.lib(opengl_fontstashcallbacks.obj) : warning LNK4049: locally defined symbol _fopen imported
+OpenGLWindow_Debug.lib(LoadShader.obj) : warning LNK4049: locally defined symbol ___stdio_common_vfprintf imported
+LinearMath_Debug.lib(btPolarDecomposition.obj) : warning LNK4049: locally defined symbol ___stdio_common_vfprintf imported
+LinearMath_Debug.lib(btConvexHull.obj) : warning LNK4049: locally defined symbol ___stdio_common_vfprintf imported
+OpenGLWindow_Debug.lib(GLInstancingRenderer.obj) : warning LNK4049: locally defined symbol ___stdio_common_vfprintf imported
+OpenGLWindow_Debug.lib(Win32OpenGLWindow.obj) : warning LNK4049: locally defined symbol ___stdio_common_vfprintf imported
+LinearMath_Debug.lib(btQuickprof.obj) : warning LNK4049: locally defined symbol ___stdio_common_vfprintf imported
+LinearMath_Debug.lib(btThreads.obj) : warning LNK4049: locally defined symbol ___stdio_common_vfprintf imported
+LinearMath_Debug.lib(btGeometryUtil.obj) : warning LNK4049: locally defined symbol ___stdio_common_vfprintf imported
+LinearMath_Debug.lib(btConvexHullComputer.obj) : warning LNK4049: locally defined symbol ___stdio_common_vfprintf imported
+BulletCollision_Debug.lib(SphereTriangleDetector.obj) : warning LNK4049: locally defined symbol ___stdio_common_vfprintf imported
+BulletInverseDynamicsUtils_Debug.lib(btMultiBodyTreeCreator.obj) : warning LNK4049: locally defined symbol ___stdio_common_vfprintf imported
+BulletInverseDynamics_Debug.lib(IDMath.obj) : warning LNK4049: locally defined symbol ___stdio_common_vfprintf imported
+BulletInverseDynamics_Debug.lib(MultiBodyTreeImpl.obj) : warning LNK4049: locally defined symbol ___stdio_common_vfprintf imported
+BulletCollision_Debug.lib(btConvexPolyhedron.obj) : warning LNK4049: locally defined symbol ___stdio_common_vfprintf imported
+BulletCollision_Debug.lib(btPolyhedralContactClipping.obj) : warning LNK4049: locally defined symbol ___stdio_common_vfprintf imported
+BulletCollision_Debug.lib(btHashedSimplePairCache.obj) : warning LNK4049: locally defined symbol ___stdio_common_vfprintf imported
+BulletCollision_Debug.lib(btBoxBoxDetector.obj) : warning LNK4049: locally defined symbol ___stdio_common_vfprintf imported
+BulletCollision_Debug.lib(btRaycastCallback.obj) : warning LNK4049: locally defined symbol ___stdio_common_vfprintf imported
+BulletCollision_Debug.lib(btContinuousConvexCollision.obj) : warning LNK4049: locally defined symbol ___stdio_common_vfprintf imported
+BulletCollision_Debug.lib(btTriangleMeshShape.obj) : warning LNK4049: locally defined symbol ___stdio_common_vfprintf imported
+BulletCollision_Debug.lib(btQuantizedBvh.obj) : warning LNK4049: locally defined symbol ___stdio_common_vfprintf imported
+BulletCollision_Debug.lib(btCompoundCompoundCollisionAlgorithm.obj) : warning LNK4049: locally defined symbol ___stdio_common_vfprintf imported
+BulletCollision_Debug.lib(btConvexPlaneCollisionAlgorithm.obj) : warning LNK4049: locally defined symbol ___stdio_common_vfprintf imported
+BulletCollision_Debug.lib(btBoxBoxCollisionAlgorithm.obj) : warning LNK4049: locally defined symbol ___stdio_common_vfprintf imported
+BulletCollision_Debug.lib(btSphereTriangleCollisionAlgorithm.obj) : warning LNK4049: locally defined symbol ___stdio_common_vfprintf imported
+BulletCollision_Debug.lib(btSimulationIslandManager.obj) : warning LNK4049: locally defined symbol ___stdio_common_vfprintf imported
+BulletCollision_Debug.lib(btConvexConvexAlgorithm.obj) : warning LNK4049: locally defined symbol ___stdio_common_vfprintf imported
+BulletCollision_Debug.lib(btConvexConcaveCollisionAlgorithm.obj) : warning LNK4049: locally defined symbol ___stdio_common_vfprintf imported
+BulletCollision_Debug.lib(btCompoundCollisionAlgorithm.obj) : warning LNK4049: locally defined symbol ___stdio_common_vfprintf imported
+BulletCollision_Debug.lib(btGjkPairDetector.obj) : warning LNK4049: locally defined symbol ___stdio_common_vfprintf imported
+BulletCollision_Debug.lib(btGjkEpa2.obj) : warning LNK4049: locally defined symbol ___stdio_common_vfprintf imported
+BulletCollision_Debug.lib(btDbvt.obj) : warning LNK4049: locally defined symbol ___stdio_common_vfprintf imported
+BulletCollision_Debug.lib(btManifoldResult.obj) : warning LNK4049: locally defined symbol ___stdio_common_vfprintf imported
+BulletCollision_Debug.lib(btOptimizedBvh.obj) : warning LNK4049: locally defined symbol ___stdio_common_vfprintf imported
+BulletCollision_Debug.lib(btMultiSphereShape.obj) : warning LNK4049: locally defined symbol ___stdio_common_vfprintf imported
+BulletCollision_Debug.lib(btPolyhedralConvexShape.obj) : warning LNK4049: locally defined symbol ___stdio_common_vfprintf imported
+BulletCollision_Debug.lib(btVoronoiSimplexSolver.obj) : warning LNK4049: locally defined symbol ___stdio_common_vfprintf imported
+BulletCollision_Debug.lib(btStridingMeshInterface.obj) : warning LNK4049: locally defined symbol ___stdio_common_vfprintf imported
+BulletCollision_Debug.lib(btTriangleIndexVertexArray.obj) : warning LNK4049: locally defined symbol ___stdio_common_vfprintf imported
+BulletCollision_Debug.lib(btBvhTriangleMeshShape.obj) : warning LNK4049: locally defined symbol ___stdio_common_vfprintf imported
+BulletCollision_Debug.lib(btTriangleMesh.obj) : warning LNK4049: locally defined symbol ___stdio_common_vfprintf imported
+BulletCollision_Debug.lib(btConvex2dConvex2dAlgorithm.obj) : warning LNK4049: locally defined symbol ___stdio_common_vfprintf imported
+BulletCollision_Debug.lib(btConeShape.obj) : warning LNK4049: locally defined symbol ___stdio_common_vfprintf imported
+BulletCollision_Debug.lib(btUnionFind.obj) : warning LNK4049: locally defined symbol ___stdio_common_vfprintf imported
+BulletCollision_Debug.lib(btSubSimplexConvexCast.obj) : warning LNK4049: locally defined symbol ___stdio_common_vfprintf imported
+BulletCollision_Debug.lib(btPersistentManifold.obj) : warning LNK4049: locally defined symbol ___stdio_common_vfprintf imported
+BulletCollision_Debug.lib(btCapsuleShape.obj) : warning LNK4049: locally defined symbol ___stdio_common_vfprintf imported
+BulletCollision_Debug.lib(btStaticPlaneShape.obj) : warning LNK4049: locally defined symbol ___stdio_common_vfprintf imported
+BulletCollision_Debug.lib(btBox2dBox2dCollisionAlgorithm.obj) : warning LNK4049: locally defined symbol ___stdio_common_vfprintf imported
+BulletCollision_Debug.lib(btCollisionWorld.obj) : warning LNK4049: locally defined symbol ___stdio_common_vfprintf imported
+BulletCollision_Debug.lib(btCylinderShape.obj) : warning LNK4049: locally defined symbol ___stdio_common_vfprintf imported
+BulletCollision_Debug.lib(btCompoundShape.obj) : warning LNK4049: locally defined symbol ___stdio_common_vfprintf imported
+BulletCollision_Debug.lib(btAxisSweep3.obj) : warning LNK4049: locally defined symbol ___stdio_common_vfprintf imported
+BulletCollision_Debug.lib(btConvexInternalShape.obj) : warning LNK4049: locally defined symbol ___stdio_common_vfprintf imported
+BulletCollision_Debug.lib(btSphereShape.obj) : warning LNK4049: locally defined symbol ___stdio_common_vfprintf imported
+BulletCollision_Debug.lib(btShapeHull.obj) : warning LNK4049: locally defined symbol ___stdio_common_vfprintf imported
+BulletCollision_Debug.lib(btOverlappingPairCache.obj) : warning LNK4049: locally defined symbol ___stdio_common_vfprintf imported
+BulletCollision_Debug.lib(btBoxShape.obj) : warning LNK4049: locally defined symbol ___stdio_common_vfprintf imported
+BulletCollision_Debug.lib(btDbvtBroadphase.obj) : warning LNK4049: locally defined symbol ___stdio_common_vfprintf imported
+BulletCollision_Debug.lib(btConvexHullShape.obj) : warning LNK4049: locally defined symbol ___stdio_common_vfprintf imported
+BulletCollision_Debug.lib(btConvexShape.obj) : warning LNK4049: locally defined symbol ___stdio_common_vfprintf imported
+BulletDynamics_Debug.lib(btMultiBodyConstraint.obj) : warning LNK4049: locally defined symbol ___stdio_common_vfprintf imported
+BulletDynamics_Debug.lib(btContactConstraint.obj) : warning LNK4049: locally defined symbol ___stdio_common_vfprintf imported
+BulletDynamics_Debug.lib(btSimulationIslandManagerMt.obj) : warning LNK4049: locally defined symbol ___stdio_common_vfprintf imported
+BulletCollision_Debug.lib(btCollisionDispatcher.obj) : warning LNK4049: locally defined symbol ___stdio_common_vfprintf imported
+BulletDynamics_Debug.lib(btGearConstraint.obj) : warning LNK4049: locally defined symbol ___stdio_common_vfprintf imported
+BulletDynamics_Debug.lib(btMultiBodyJointLimitConstraint.obj) : warning LNK4049: locally defined symbol ___stdio_common_vfprintf imported
+BulletDynamics_Debug.lib(btHinge2Constraint.obj) : warning LNK4049: locally defined symbol ___stdio_common_vfprintf imported
+BulletDynamics_Debug.lib(btUniversalConstraint.obj) : warning LNK4049: locally defined symbol ___stdio_common_vfprintf imported
+BulletDynamics_Debug.lib(btLemkeAlgorithm.obj) : warning LNK4049: locally defined symbol ___stdio_common_vfprintf imported
+BulletDynamics_Debug.lib(btConeTwistConstraint.obj) : warning LNK4049: locally defined symbol ___stdio_common_vfprintf imported
+BulletDynamics_Debug.lib(btGeneric6DofConstraint.obj) : warning LNK4049: locally defined symbol ___stdio_common_vfprintf imported
+BulletDynamics_Debug.lib(btGeneric6DofSpringConstraint.obj) : warning LNK4049: locally defined symbol ___stdio_common_vfprintf imported
+BulletDynamics_Debug.lib(btMLCPSolver.obj) : warning LNK4049: locally defined symbol ___stdio_common_vfprintf imported
+BulletDynamics_Debug.lib(btDiscreteDynamicsWorldMt.obj) : warning LNK4049: locally defined symbol ___stdio_common_vfprintf imported
+BulletDynamics_Debug.lib(btGeneric6DofSpring2Constraint.obj) : warning LNK4049: locally defined symbol ___stdio_common_vfprintf imported
+BulletDynamics_Debug.lib(btNNCGConstraintSolver.obj) : warning LNK4049: locally defined symbol ___stdio_common_vfprintf imported
+BulletDynamics_Debug.lib(btTypedConstraint.obj) : warning LNK4049: locally defined symbol ___stdio_common_vfprintf imported
+BulletDynamics_Debug.lib(btHingeConstraint.obj) : warning LNK4049: locally defined symbol ___stdio_common_vfprintf imported
+BulletDynamics_Debug.lib(btRaycastVehicle.obj) : warning LNK4049: locally defined symbol ___stdio_common_vfprintf imported
+BulletDynamics_Debug.lib(btDantzigLCP.obj) : warning LNK4049: locally defined symbol ___stdio_common_vfprintf imported
+BulletDynamics_Debug.lib(btMultiBodyFixedConstraint.obj) : warning LNK4049: locally defined symbol ___stdio_common_vfprintf imported
+BulletDynamics_Debug.lib(btMultiBodySliderConstraint.obj) : warning LNK4049: locally defined symbol ___stdio_common_vfprintf imported
+BulletDynamics_Debug.lib(btMultiBodyJointMotor.obj) : warning LNK4049: locally defined symbol ___stdio_common_vfprintf imported
+BulletDynamics_Debug.lib(btMultiBodyDynamicsWorld.obj) : warning LNK4049: locally defined symbol ___stdio_common_vfprintf imported
+BulletDynamics_Debug.lib(btSliderConstraint.obj) : warning LNK4049: locally defined symbol ___stdio_common_vfprintf imported
+BulletDynamics_Debug.lib(btMultiBody.obj) : warning LNK4049: locally defined symbol ___stdio_common_vfprintf imported
+BulletDynamics_Debug.lib(btMultiBodyConstraintSolver.obj) : warning LNK4049: locally defined symbol ___stdio_common_vfprintf imported
+BulletDynamics_Debug.lib(btMultiBodyPoint2Point.obj) : warning LNK4049: locally defined symbol ___stdio_common_vfprintf imported
+BulletDynamics_Debug.lib(btDiscreteDynamicsWorld.obj) : warning LNK4049: locally defined symbol ___stdio_common_vfprintf imported
+BulletDynamics_Debug.lib(btRigidBody.obj) : warning LNK4049: locally defined symbol ___stdio_common_vfprintf imported
+BulletDynamics_Debug.lib(btPoint2PointConstraint.obj) : warning LNK4049: locally defined symbol ___stdio_common_vfprintf imported
+BulletDynamics_Debug.lib(btSequentialImpulseConstraintSolver.obj) : warning LNK4049: locally defined symbol ___stdio_common_vfprintf imported
+BulletSoftBody_Debug.lib(btSoftRigidDynamicsWorld.obj) : warning LNK4049: locally defined symbol ___stdio_common_vfprintf imported
+BulletSoftBody_Debug.lib(btSoftBodyHelpers.obj) : warning LNK4049: locally defined symbol ___stdio_common_vfprintf imported
+BulletSoftBody_Debug.lib(btDefaultSoftBodySolver.obj) : warning LNK4049: locally defined symbol ___stdio_common_vfprintf imported
+BulletSoftBody_Debug.lib(btSoftBodyConcaveCollisionAlgorithm.obj) : warning LNK4049: locally defined symbol ___stdio_common_vfprintf imported
+BulletExampleBrowserLib_Debug.lib(CollisionShape2TriangleMesh.obj) : warning LNK4049: locally defined symbol ___stdio_common_vfprintf imported
+BulletExampleBrowserLib_Debug.lib(GL_ShapeDrawer.obj) : warning LNK4049: locally defined symbol ___stdio_common_vfprintf imported
+Bullet3Common_Debug.lib(b3Logging.obj) : warning LNK4049: locally defined symbol ___stdio_common_vfprintf imported
+BulletSoftBody_Debug.lib(btSoftBody.obj) : warning LNK4049: locally defined symbol ___stdio_common_vfprintf imported
+BulletExampleBrowserLib_Debug.lib(OpenGLExampleBrowser.obj) : warning LNK4217: locally defined symbol ___stdio_common_vfprintf imported in function __vfprintf_l
+BulletExampleBrowserLib_Debug.lib(GwenParameterInterface.obj) : warning LNK4049: locally defined symbol ___stdio_common_vfprintf imported
+BulletExampleBrowserLib_Debug.lib(GraphingTexture.obj) : warning LNK4049: locally defined symbol ___stdio_common_vfprintf imported
+BulletExampleBrowserLib_Debug.lib(OpenGLGuiHelper.obj) : warning LNK4049: locally defined symbol ___stdio_common_vfprintf imported
+BulletSoftBody_Debug.lib(btSoftBodyHelpers.obj) : warning LNK4049: locally defined symbol ___stdio_common_vsprintf imported
+OpenGLWindow_Debug.lib(SimpleOpenGL3App.obj) : warning LNK4049: locally defined symbol ___stdio_common_vsprintf imported
+BulletExampleBrowserLib_Debug.lib(OpenGLExampleBrowser.obj) : warning LNK4217: locally defined symbol ___stdio_common_vsprintf imported in function __vsnprintf_l
+BulletExampleBrowserLib_Debug.lib(b3ResourcePath.obj) : warning LNK4049: locally defined symbol ___stdio_common_vsprintf imported
+BulletExampleBrowserLib_Debug.lib(GwenParameterInterface.obj) : warning LNK4049: locally defined symbol ___stdio_common_vsprintf imported
+BulletExampleBrowserLib_Debug.lib(GL_ShapeDrawer.obj) : warning LNK4049: locally defined symbol ___stdio_common_vsprintf imported
+BulletExampleBrowserLib_Debug.lib(GwenTextureWindow.obj) : warning LNK4049: locally defined symbol ___std_exception_copy imported
+BulletExampleBrowserLib_Debug.lib(OpenGLExampleBrowser.obj) : warning LNK4217: locally defined symbol ___std_exception_copy imported in function "public: __thiscall std::exception::exception(class std::exception const &)" (??0exception@std@@QAE@ABV01@@Z)
+BulletExampleBrowserLib_Debug.lib(gwenUserInterface.obj) : warning LNK4049: locally defined symbol ___std_exception_copy imported
+BulletExampleBrowserLib_Debug.lib(GwenParameterInterface.obj) : warning LNK4049: locally defined symbol ___std_exception_copy imported
+BulletExampleBrowserLib_Debug.lib(GwenProfileWindow.obj) : warning LNK4049: locally defined symbol ___std_exception_copy imported
+BulletExampleBrowserLib_Debug.lib(GwenTextureWindow.obj) : warning LNK4049: locally defined symbol ___std_exception_destroy imported
+BulletExampleBrowserLib_Debug.lib(OpenGLExampleBrowser.obj) : warning LNK4217: locally defined symbol ___std_exception_destroy imported in function "public: virtual __thiscall std::exception::~exception(void)" (??1exception@std@@UAE@XZ)
+BulletExampleBrowserLib_Debug.lib(gwenUserInterface.obj) : warning LNK4217: locally defined symbol ___std_exception_destroy imported in function "public: virtual class Gwen::Controls::MenuItem * __thiscall Gwen::Controls::Menu::AddItem(class std::basic_string<wchar_t,struct std::char_traits<wchar_t>,class std::allocator<wchar_t> > const &,class Gwen::Event::Handler *,void (__thiscall Gwen::Event::Handler::*)(class Gwen::Controls::Base *))" (?AddItem@Menu@Controls@Gwen@@UAEPAVMenuItem@23@ABV?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@PAVHandler@Event@3@P8783@AEXPAVBase@23@@Z@Z)
+BulletExampleBrowserLib_Debug.lib(GwenParameterInterface.obj) : warning LNK4049: locally defined symbol ___std_exception_destroy imported
+BulletExampleBrowserLib_Debug.lib(GwenProfileWindow.obj) : warning LNK4049: locally defined symbol ___std_exception_destroy imported
+BulletExampleBrowserLib_Debug.lib(OpenGLExampleBrowser.obj) : warning LNK4217: locally defined symbol _memchr imported in function "public: static char const * __cdecl std::char_traits<char>::find(char const *,unsigned int,char const &)" (?find@?$char_traits@D@std@@SAPBDPBDIABD@Z)
+gwen_Debug.lib(ColorPicker.obj) : warning LNK4049: locally defined symbol _memchr imported
+gwen_Debug.lib(Utility.obj) : warning LNK4049: locally defined symbol _memchr imported
+gwen_Debug.lib(ScrollBar.obj) : warning LNK4049: locally defined symbol _memmove imported
+gwen_Debug.lib(ScrollBarBar.obj) : warning LNK4049: locally defined symbol _memmove imported
+gwen_Debug.lib(TextBoxNumeric.obj) : warning LNK4049: locally defined symbol _memmove imported
+gwen_Debug.lib(Slider.obj) : warning LNK4049: locally defined symbol _memmove imported
+gwen_Debug.lib(Resizer.obj) : warning LNK4049: locally defined symbol _memmove imported
+gwen_Debug.lib(Dragger.obj) : warning LNK4049: locally defined symbol _memmove imported
+gwen_Debug.lib(TabButton.obj) : warning LNK4049: locally defined symbol _memmove imported
+gwen_Debug.lib(TabStrip.obj) : warning LNK4049: locally defined symbol _memmove imported
+gwen_Debug.lib(ScrollBarButton.obj) : warning LNK4049: locally defined symbol _memmove imported
+gwen_Debug.lib(GroupBox.obj) : warning LNK4049: locally defined symbol _memmove imported
+gwen_Debug.lib(Text.obj) : warning LNK4049: locally defined symbol _memmove imported
+gwen_Debug.lib(VerticalScrollBar.obj) : warning LNK4049: locally defined symbol _memmove imported
+gwen_Debug.lib(HorizontalScrollBar.obj) : warning LNK4049: locally defined symbol _memmove imported
+gwen_Debug.lib(TreeNode.obj) : warning LNK4049: locally defined symbol _memmove imported
+gwen_Debug.lib(Utility.obj) : warning LNK4049: locally defined symbol _memmove imported
+gwen_Debug.lib(Windows.obj) : warning LNK4049: locally defined symbol _memmove imported
+gwen_Debug.lib(ResizableControl.obj) : warning LNK4049: locally defined symbol _memmove imported
+gwen_Debug.lib(WindowControl.obj) : warning LNK4049: locally defined symbol _memmove imported
+gwen_Debug.lib(ListBox.obj) : warning LNK4217: locally defined symbol _memmove imported in function __unwindfunclet$?SetColumnCount@TableRow@Layout@Controls@Gwen@@QAEXH@Z$0
+gwen_Debug.lib(ColorPicker.obj) : warning LNK4049: locally defined symbol _memmove imported
+gwen_Debug.lib(HorizontalSlider.obj) : warning LNK4049: locally defined symbol _memmove imported
+gwen_Debug.lib(TextBox.obj) : warning LNK4049: locally defined symbol _memmove imported
+gwen_Debug.lib(Menu.obj) : warning LNK4049: locally defined symbol _memmove imported
+gwen_Debug.lib(ComboBox.obj) : warning LNK4049: locally defined symbol _memmove imported
+gwen_Debug.lib(MenuStrip.obj) : warning LNK4049: locally defined symbol _memmove imported
+gwen_Debug.lib(TabControl.obj) : warning LNK4049: locally defined symbol _memmove imported
+gwen_Debug.lib(Button.obj) : warning LNK4049: locally defined symbol _memmove imported
+gwen_Debug.lib(ScrollControl.obj) : warning LNK4049: locally defined symbol _memmove imported
+gwen_Debug.lib(TreeControl.obj) : warning LNK4049: locally defined symbol _memmove imported
+gwen_Debug.lib(MenuItem.obj) : warning LNK4049: locally defined symbol _memmove imported
+gwen_Debug.lib(OpenGL_DebugFont.obj) : warning LNK4049: locally defined symbol _memmove imported
+gwen_Debug.lib(Base.obj) : warning LNK4049: locally defined symbol _memmove imported
+gwen_Debug.lib(Canvas.obj) : warning LNK4049: locally defined symbol _memmove imported
+gwen_Debug.lib(Label.obj) : warning LNK4049: locally defined symbol _memmove imported
+BulletExampleBrowserLib_Debug.lib(GwenTextureWindow.obj) : warning LNK4049: locally defined symbol _memmove imported
+BulletDynamics_Debug.lib(btDantzigLCP.obj) : warning LNK4049: locally defined symbol _memmove imported
+OpenGLWindow_Debug.lib(opengl_fontstashcallbacks.obj) : warning LNK4049: locally defined symbol _memmove imported
+gwen_Debug.lib(BaseRender.obj) : warning LNK4049: locally defined symbol _memmove imported
+BulletExampleBrowserLib_Debug.lib(OpenGLExampleBrowser.obj) : warning LNK4217: locally defined symbol _memmove imported in function "public: static char * __cdecl std::char_traits<char>::move(char *,char const *,unsigned int)" (?move@?$char_traits@D@std@@SAPADPADPBDI@Z)
+BulletExampleBrowserLib_Debug.lib(gwenUserInterface.obj) : warning LNK4049: locally defined symbol _memmove imported
+BulletExampleBrowserLib_Debug.lib(GwenParameterInterface.obj) : warning LNK4049: locally defined symbol _memmove imported
+BulletExampleBrowserLib_Debug.lib(GwenProfileWindow.obj) : warning LNK4049: locally defined symbol _memmove imported
+BulletExampleBrowserLib_Debug.lib(OpenGLExampleBrowser.obj) : warning LNK4217: locally defined symbol _strchr imported in function "char * __cdecl strchr(char * const,int)" (?strchr@@YAPADQADH@Z)
+BulletExampleBrowserLib_Debug.lib(OpenGLExampleBrowser.obj) : warning LNK4217: locally defined symbol _strstr imported in function "char * __cdecl strstr(char * const,char const * const)" (?strstr@@YAPADQADQBD@Z)
+BulletExampleBrowserLib_Debug.lib(b3ResourcePath.obj) : warning LNK4049: locally defined symbol _strstr imported
+gwen_Debug.lib(TreeNode.obj) : warning LNK4049: locally defined symbol _wcslen imported
+gwen_Debug.lib(TextBoxNumeric.obj) : warning LNK4049: locally defined symbol _wcslen imported
+gwen_Debug.lib(Windows.obj) : warning LNK4049: locally defined symbol _wcslen imported
+gwen_Debug.lib(WindowControl.obj) : warning LNK4049: locally defined symbol _wcslen imported
+gwen_Debug.lib(inputhandler.obj) : warning LNK4049: locally defined symbol _wcslen imported
+gwen_Debug.lib(Text.obj) : warning LNK4049: locally defined symbol _wcslen imported
+gwen_Debug.lib(ListBox.obj) : warning LNK4217: locally defined symbol _wcslen imported in function __unwindfunclet$?SetColumnCount@Table@Layout@Controls@Gwen@@QAEXH@Z$1
+gwen_Debug.lib(ColorPicker.obj) : warning LNK4217: locally defined symbol _wcslen imported in function "public: void __thiscall std::_String_alloc<struct std::_String_base_types<char,class std::allocator<char> > >::_Free_proxy(void)" (?_Free_proxy@?$_String_alloc@U?$_String_base_types@DV?$allocator@D@std@@@std@@@std@@QAEXXZ)
+gwen_Debug.lib(TextBox.obj) : warning LNK4049: locally defined symbol _wcslen imported
+gwen_Debug.lib(Utility.obj) : warning LNK4049: locally defined symbol _wcslen imported
+gwen_Debug.lib(Button.obj) : warning LNK4049: locally defined symbol _wcslen imported
+gwen_Debug.lib(Menu.obj) : warning LNK4049: locally defined symbol _wcslen imported
+gwen_Debug.lib(ComboBox.obj) : warning LNK4049: locally defined symbol _wcslen imported
+gwen_Debug.lib(MenuStrip.obj) : warning LNK4049: locally defined symbol _wcslen imported
+BulletExampleBrowserLib_Debug.lib(GwenTextureWindow.obj) : warning LNK4049: locally defined symbol _wcslen imported
+gwen_Debug.lib(BaseRender.obj) : warning LNK4049: locally defined symbol _wcslen imported
+gwen_Debug.lib(Base.obj) : warning LNK4049: locally defined symbol _wcslen imported
+gwen_Debug.lib(Label.obj) : warning LNK4049: locally defined symbol _wcslen imported
+BulletExampleBrowserLib_Debug.lib(OpenGLExampleBrowser.obj) : warning LNK4217: locally defined symbol _wcslen imported in function "public: static unsigned int __cdecl std::char_traits<wchar_t>::length(wchar_t const *)" (?length@?$char_traits@_W@std@@SAIPB_W@Z)
+BulletExampleBrowserLib_Debug.lib(gwenUserInterface.obj) : warning LNK4217: locally defined symbol _wcslen imported in function "public: class Gwen::Event::Handler * & __thiscall b3AlignedObjectArray<class Gwen::Event::Handler *>::operator[](int)" (??A?$b3AlignedObjectArray@PAVHandler@Event@Gwen@@@@QAEAAPAVHandler@Event@Gwen@@H@Z)
+BulletExampleBrowserLib_Debug.lib(GwenParameterInterface.obj) : warning LNK4049: locally defined symbol _wcslen imported
+BulletExampleBrowserLib_Debug.lib(GwenProfileWindow.obj) : warning LNK4049: locally defined symbol _wcslen imported
+gwen_Debug.lib(Dragger.obj) : warning LNK4049: locally defined symbol __CrtDbgReportW imported
+gwen_Debug.lib(Hook.obj) : warning LNK4049: locally defined symbol __CrtDbgReportW imported
+gwen_Debug.lib(ScrollBar.obj) : warning LNK4049: locally defined symbol __CrtDbgReportW imported
+gwen_Debug.lib(ScrollBarBar.obj) : warning LNK4049: locally defined symbol __CrtDbgReportW imported
+gwen_Debug.lib(GroupBox.obj) : warning LNK4049: locally defined symbol __CrtDbgReportW imported
+gwen_Debug.lib(TextBoxNumeric.obj) : warning LNK4049: locally defined symbol __CrtDbgReportW imported
+gwen_Debug.lib(Slider.obj) : warning LNK4049: locally defined symbol __CrtDbgReportW imported
+gwen_Debug.lib(Resizer.obj) : warning LNK4049: locally defined symbol __CrtDbgReportW imported
+gwen_Debug.lib(TreeNode.obj) : warning LNK4049: locally defined symbol __CrtDbgReportW imported
+gwen_Debug.lib(TabButton.obj) : warning LNK4049: locally defined symbol __CrtDbgReportW imported
+gwen_Debug.lib(TabStrip.obj) : warning LNK4049: locally defined symbol __CrtDbgReportW imported
+gwen_Debug.lib(ScrollBarButton.obj) : warning LNK4049: locally defined symbol __CrtDbgReportW imported
+gwen_Debug.lib(inputhandler.obj) : warning LNK4049: locally defined symbol __CrtDbgReportW imported
+gwen_Debug.lib(Text.obj) : warning LNK4049: locally defined symbol __CrtDbgReportW imported
+gwen_Debug.lib(VerticalScrollBar.obj) : warning LNK4049: locally defined symbol __CrtDbgReportW imported
+gwen_Debug.lib(HorizontalScrollBar.obj) : warning LNK4049: locally defined symbol __CrtDbgReportW imported
+gwen_Debug.lib(Windows.obj) : warning LNK4049: locally defined symbol __CrtDbgReportW imported
+gwen_Debug.lib(ResizableControl.obj) : warning LNK4049: locally defined symbol __CrtDbgReportW imported
+gwen_Debug.lib(WindowControl.obj) : warning LNK4049: locally defined symbol __CrtDbgReportW imported
+gwen_Debug.lib(Anim.obj) : warning LNK4049: locally defined symbol __CrtDbgReportW imported
+gwen_Debug.lib(ColorPicker.obj) : warning LNK4049: locally defined symbol __CrtDbgReportW imported
+gwen_Debug.lib(HorizontalSlider.obj) : warning LNK4049: locally defined symbol __CrtDbgReportW imported
+gwen_Debug.lib(TextBox.obj) : warning LNK4049: locally defined symbol __CrtDbgReportW imported
+gwen_Debug.lib(Utility.obj) : warning LNK4049: locally defined symbol __CrtDbgReportW imported
+gwen_Debug.lib(ComboBox.obj) : warning LNK4049: locally defined symbol __CrtDbgReportW imported
+gwen_Debug.lib(MenuStrip.obj) : warning LNK4049: locally defined symbol __CrtDbgReportW imported
+gwen_Debug.lib(TabControl.obj) : warning LNK4049: locally defined symbol __CrtDbgReportW imported
+gwen_Debug.lib(ListBox.obj) : warning LNK4049: locally defined symbol __CrtDbgReportW imported
+gwen_Debug.lib(ScrollControl.obj) : warning LNK4049: locally defined symbol __CrtDbgReportW imported
+gwen_Debug.lib(TreeControl.obj) : warning LNK4049: locally defined symbol __CrtDbgReportW imported
+gwen_Debug.lib(MenuItem.obj) : warning LNK4049: locally defined symbol __CrtDbgReportW imported
+gwen_Debug.lib(Menu.obj) : warning LNK4049: locally defined symbol __CrtDbgReportW imported
+gwen_Debug.lib(Base.obj) : warning LNK4049: locally defined symbol __CrtDbgReportW imported
+gwen_Debug.lib(Canvas.obj) : warning LNK4049: locally defined symbol __CrtDbgReportW imported
+gwen_Debug.lib(Label.obj) : warning LNK4049: locally defined symbol __CrtDbgReportW imported
+gwen_Debug.lib(Button.obj) : warning LNK4049: locally defined symbol __CrtDbgReportW imported
+BulletExampleBrowserLib_Debug.lib(GwenTextureWindow.obj) : warning LNK4049: locally defined symbol __CrtDbgReportW imported
+gwen_Debug.lib(BaseRender.obj) : warning LNK4049: locally defined symbol __CrtDbgReportW imported
+gwen_Debug.lib(events.obj) : warning LNK4049: locally defined symbol __CrtDbgReportW imported
+gwen_Debug.lib(OpenGL_DebugFont.obj) : warning LNK4049: locally defined symbol __CrtDbgReportW imported
+BulletExampleBrowserLib_Debug.lib(OpenGLExampleBrowser.obj) : warning LNK4217: locally defined symbol __CrtDbgReportW imported in function "public: bool __thiscall std::_Tree_const_iterator<class std::_Tree_val<struct std::_Tree_simple_types<struct std::pair<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const ,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > > > > >::operator==(class std::_Tree_const_iterator<class std::_Tree_val<struct std::_Tree_simple_types<struct std::pair<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const ,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > > > > > const &)const " (??8?$_Tree_const_iterator@V?$_Tree_val@U?$_Tree_simple_types@U?$pair@$$CBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@V12@@std@@@std@@@std@@@std@@QBE_NABV01@@Z)
+BulletExampleBrowserLib_Debug.lib(gwenUserInterface.obj) : warning LNK4217: locally defined symbol __CrtDbgReportW imported in function "public: char & __thiscall std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >::operator[](unsigned int)" (??A?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@QAEAADI@Z)
+BulletExampleBrowserLib_Debug.lib(GwenParameterInterface.obj) : warning LNK4049: locally defined symbol __CrtDbgReportW imported
+BulletExampleBrowserLib_Debug.lib(GwenProfileWindow.obj) : warning LNK4049: locally defined symbol __CrtDbgReportW imported
+BussIK_Debug.lib(MatrixRmn.obj) : warning LNK4049: locally defined symbol __wassert imported
+OpenGLWindow_Debug.lib(opengl_fontstashcallbacks.obj) : warning LNK4049: locally defined symbol __wassert imported
+BussIK_Debug.lib(Jacobian.obj) : warning LNK4049: locally defined symbol __wassert imported
+BussIK_Debug.lib(Tree.obj) : warning LNK4049: locally defined symbol __wassert imported
+BussIK_Debug.lib(LinearR3.obj) : warning LNK4049: locally defined symbol __wassert imported
+OpenGLWindow_Debug.lib(SimpleOpenGL3App.obj) : warning LNK4049: locally defined symbol __wassert imported
+OpenGLWindow_Debug.lib(fontstash.obj) : warning LNK4049: locally defined symbol __wassert imported
+OpenGLWindow_Debug.lib(TwFonts.obj) : warning LNK4049: locally defined symbol __wassert imported
+OpenGLWindow_Debug.lib(LoadShader.obj) : warning LNK4049: locally defined symbol __wassert imported
+BulletExampleBrowserLib_Debug.lib(OpenGLExampleBrowser.obj) : warning LNK4217: locally defined symbol __wassert imported in function "public: virtual bool __thiscall OpenGLExampleBrowser::init(int,char * * const)" (?init@OpenGLExampleBrowser@@UAE_NHQAPAD@Z)
+BulletExampleBrowserLib_Debug.lib(gwenUserInterface.obj) : warning LNK4217: locally defined symbol __wassert imported in function "public: virtual void __thiscall Gwen::Skin::Simple::DrawSlider(class Gwen::Controls::Base *,bool,int,int)" (?DrawSlider@Simple@Skin@Gwen@@UAEXPAVBase@Controls@3@_NHH@Z)
+BulletExampleBrowserLib_Debug.lib(GraphingTexture.obj) : warning LNK4049: locally defined symbol __wassert imported
+OpenGLWindow_Debug.lib(GLPrimitiveRenderer.obj) : warning LNK4049: locally defined symbol __wassert imported
+BulletExampleBrowserLib_Debug.lib(b3ResourcePath.obj) : warning LNK4217: locally defined symbol ___stdio_common_vsprintf_s imported in function __vsprintf_s_l
+Bullet3Common_Debug.lib(b3Logging.obj) : warning LNK4049: locally defined symbol ___stdio_common_vsprintf_s imported
+gwen_Debug.lib(ColorPicker.obj) : warning LNK4049: locally defined symbol ___stdio_common_vsprintf_s imported
+Bullet3Common_Debug.lib(b3Logging.obj) : warning LNK4217: locally defined symbol _fflush imported in function _b3OutputErrorMessageVarArgsInternal
+BulletSoftBody_Debug.lib(btSoftBodyHelpers.obj) : warning LNK4217: locally defined symbol _srand imported in function "public: static void __cdecl btSoftBodyHelpers::Draw(class btSoftBody *,class btIDebugDraw *,int)" (?Draw@btSoftBodyHelpers@@SAXPAVbtSoftBody@@PAVbtIDebugDraw@@H@Z)
+BulletSoftBody_Debug.lib(btSoftBodyHelpers.obj) : warning LNK4217: locally defined symbol _rand imported in function "public: static void __cdecl btSoftBodyHelpers::Draw(class btSoftBody *,class btIDebugDraw *,int)" (?Draw@btSoftBodyHelpers@@SAXPAVbtSoftBody@@PAVbtIDebugDraw@@H@Z)
+BulletSoftBody_Debug.lib(btSoftBodyHelpers.obj) : warning LNK4217: locally defined symbol ___stdio_common_vsscanf imported in function __vsscanf_l
+gwen_Debug.lib(ColorPicker.obj) : warning LNK4049: locally defined symbol _abort imported
+gwen_Debug.lib(WindowControl.obj) : warning LNK4049: locally defined symbol _abort imported
+gwen_Debug.lib(Text.obj) : warning LNK4049: locally defined symbol _abort imported
+gwen_Debug.lib(TreeNode.obj) : warning LNK4049: locally defined symbol _abort imported
+gwen_Debug.lib(Base.obj) : warning LNK4049: locally defined symbol _abort imported
+gwen_Debug.lib(Label.obj) : warning LNK4049: locally defined symbol _abort imported
+gwen_Debug.lib(Menu.obj) : warning LNK4049: locally defined symbol _abort imported
+gwen_Debug.lib(ListBox.obj) : warning LNK4049: locally defined symbol _abort imported
+BulletInverseDynamics_Debug.lib(IDMath.obj) : warning LNK4217: locally defined symbol _abort imported in function "void __cdecl btInverseDynamicsBullet3::mul(class btInverseDynamicsBullet3::mat33 const &,class btInverseDynamicsBullet3::mat3x const &,class btInverseDynamicsBullet3::mat3x *)" (?mul@btInverseDynamicsBullet3@@YAXABVmat33@1@ABVmat3x@1@PAV31@@Z)
+BulletInverseDynamics_Debug.lib(MultiBodyTreeImpl.obj) : warning LNK4049: locally defined symbol _abort imported
+gwen_Debug.lib(BaseRender.obj) : warning LNK4049: locally defined symbol _abort imported
+gwen_Debug.lib(OpenGL_DebugFont.obj) : warning LNK4049: locally defined symbol _abort imported
+OpenGLWindow_Debug.lib(SimpleOpenGL3App.obj) : warning LNK4217: locally defined symbol _fwrite imported in function "void __cdecl writeTextureToFile(int,int,char const *,struct _iobuf *)" (?writeTextureToFile@@YAXHHPBDPAU_iobuf@@@Z)
+OpenGLWindow_Debug.lib(opengl_fontstashcallbacks.obj) : warning LNK4049: locally defined symbol _fwrite imported
+OpenGLWindow_Debug.lib(fontstash.obj) : warning LNK4217: locally defined symbol _fread imported in function "int __cdecl sth_add_font(struct sth_stash *,char const *)" (?sth_add_font@@YAHPAUsth_stash@@PBD@Z)
+OpenGLWindow_Debug.lib(fontstash.obj) : warning LNK4217: locally defined symbol _fseek imported in function "int __cdecl sth_add_font(struct sth_stash *,char const *)" (?sth_add_font@@YAHPAUsth_stash@@PBD@Z)
+OpenGLWindow_Debug.lib(fontstash.obj) : warning LNK4217: locally defined symbol _ftell imported in function "int __cdecl sth_add_font(struct sth_stash *,char const *)" (?sth_add_font@@YAHPAUsth_stash@@PBD@Z)
+OpenGLWindow_Debug.lib(fontstash.obj) : warning LNK4217: locally defined symbol _realloc imported in function "struct sth_glyph * __cdecl get_glyph(struct sth_stash *,struct sth_font *,unsigned int,short)" (?get_glyph@@YAPAUsth_glyph@@PAUsth_stash@@PAUsth_font@@IF@Z)
+OpenGLWindow_Debug.lib(opengl_fontstashcallbacks.obj) : warning LNK4049: locally defined symbol _realloc imported
+OpenGLWindow_Debug.lib(fontstash.obj) : warning LNK4217: locally defined symbol _ceil imported in function _stbtt_GetGlyphBitmapBoxSubpixel
+gwen_Debug.lib(BaseRender.obj) : warning LNK4049: locally defined symbol _ceil imported
+OpenGLWindow_Debug.lib(fontstash.obj) : warning LNK4217: locally defined symbol _floor imported in function _stbtt_GetBakedQuad
+gwen_Debug.lib(Slider.obj) : warning LNK4049: locally defined symbol _floor imported
+OpenGLWindow_Debug.lib(opengl_fontstashcallbacks.obj) : warning LNK4217: locally defined symbol _fputc imported in function "void __cdecl writefv(struct _iobuf *,char const *,char *)" (?writefv@@YAXPAU_iobuf@@PBDPAD@Z)
+OpenGLWindow_Debug.lib(Win32Window.obj) : warning LNK4217: locally defined symbol ___stdio_common_vswprintf imported in function __vswprintf_c_l
+gwen_Debug.lib(Text.obj) : warning LNK4049: locally defined symbol __invoke_watson imported
+gwen_Debug.lib(TreeNode.obj) : warning LNK4049: locally defined symbol __invoke_watson imported
+gwen_Debug.lib(Menu.obj) : warning LNK4049: locally defined symbol __invoke_watson imported
+gwen_Debug.lib(ListBox.obj) : warning LNK4049: locally defined symbol __invoke_watson imported
+gwen_Debug.lib(ColorPicker.obj) : warning LNK4049: locally defined symbol __invoke_watson imported
+gwen_Debug.lib(WindowControl.obj) : warning LNK4049: locally defined symbol __invoke_watson imported
+gwen_Debug.lib(BaseRender.obj) : warning LNK4217: locally defined symbol __invoke_watson imported in function "protected: virtual void __thiscall std::runtime_error::_Doraise(void)const " (?_Doraise@runtime_error@std@@MBEXXZ)
+gwen_Debug.lib(OpenGL_DebugFont.obj) : warning LNK4049: locally defined symbol __invoke_watson imported
+gwen_Debug.lib(Base.obj) : warning LNK4049: locally defined symbol __invoke_watson imported
+gwen_Debug.lib(Label.obj) : warning LNK4049: locally defined symbol __invoke_watson imported
+gwen_Debug.lib(Text.obj) : warning LNK4049: locally defined symbol __free_dbg imported
+gwen_Debug.lib(TreeNode.obj) : warning LNK4049: locally defined symbol __free_dbg imported
+gwen_Debug.lib(Menu.obj) : warning LNK4049: locally defined symbol __free_dbg imported
+gwen_Debug.lib(ListBox.obj) : warning LNK4049: locally defined symbol __free_dbg imported
+gwen_Debug.lib(ColorPicker.obj) : warning LNK4049: locally defined symbol __free_dbg imported
+gwen_Debug.lib(WindowControl.obj) : warning LNK4049: locally defined symbol __free_dbg imported
+gwen_Debug.lib(BaseRender.obj) : warning LNK4217: locally defined symbol __free_dbg imported in function "private: void __thiscall std::_Yarn<char>::_Tidy(void)" (?_Tidy@?$_Yarn@D@std@@AAEXXZ)
+gwen_Debug.lib(OpenGL_DebugFont.obj) : warning LNK4049: locally defined symbol __free_dbg imported
+gwen_Debug.lib(Base.obj) : warning LNK4049: locally defined symbol __free_dbg imported
+gwen_Debug.lib(Label.obj) : warning LNK4049: locally defined symbol __free_dbg imported
+gwen_Debug.lib(Text.obj) : warning LNK4049: locally defined symbol __malloc_dbg imported
+gwen_Debug.lib(TreeNode.obj) : warning LNK4049: locally defined symbol __malloc_dbg imported
+gwen_Debug.lib(Menu.obj) : warning LNK4049: locally defined symbol __malloc_dbg imported
+gwen_Debug.lib(ListBox.obj) : warning LNK4049: locally defined symbol __malloc_dbg imported
+gwen_Debug.lib(ColorPicker.obj) : warning LNK4049: locally defined symbol __malloc_dbg imported
+gwen_Debug.lib(WindowControl.obj) : warning LNK4049: locally defined symbol __malloc_dbg imported
+gwen_Debug.lib(BaseRender.obj) : warning LNK4217: locally defined symbol __malloc_dbg imported in function "public: static void * __cdecl std::_Crt_new_delete::operator new(unsigned int,struct std::nothrow_t const &)" (??2_Crt_new_delete@std@@SAPAXIABUnothrow_t@1@@Z)
+gwen_Debug.lib(OpenGL_DebugFont.obj) : warning LNK4049: locally defined symbol __malloc_dbg imported
+gwen_Debug.lib(Base.obj) : warning LNK4049: locally defined symbol __malloc_dbg imported
+gwen_Debug.lib(Label.obj) : warning LNK4049: locally defined symbol __malloc_dbg imported
+gwen_Debug.lib(Canvas.obj) : warning LNK4217: locally defined symbol _iswprint imported in function "public: virtual bool __thiscall Gwen::Controls::Canvas::InputCharacter(wchar_t)" (?InputCharacter@Canvas@Controls@Gwen@@UAE_N_W@Z)
+gwen_Debug.lib(ColorPicker.obj) : warning LNK4217: locally defined symbol _frexp imported in function "protected: virtual class std::ostreambuf_iterator<char,struct std::char_traits<char> > __thiscall std::num_put<char,class std::ostreambuf_iterator<char,struct std::char_traits<char> > >::do_put(class std::ostreambuf_iterator<char,struct std::char_traits<char> >,class std::ios_base &,char,double)const " (?do_put@?$num_put@DV?$ostreambuf_iterator@DU?$char_traits@D@std@@@std@@@std@@MBE?AV?$ostreambuf_iterator@DU?$char_traits@D@std@@@2@V32@AAVios_base@2@DN@Z)
+gwen_Debug.lib(ColorPicker.obj) : warning LNK4217: locally defined symbol _atoi imported in function "public: virtual void __thiscall Gwen::Controls::ColorPicker::NumericTyped(class Gwen::Controls::Base *)" (?NumericTyped@ColorPicker@Controls@Gwen@@UAEXPAVBase@23@@Z)
+gwen_Debug.lib(Utility.obj) : warning LNK4049: locally defined symbol _atoi imported
+gwen_Debug.lib(ColorPicker.obj) : warning LNK4217: locally defined symbol _strcspn imported in function "private: class std::ostreambuf_iterator<char,struct std::char_traits<char> > __cdecl std::num_put<char,class std::ostreambuf_iterator<char,struct std::char_traits<char> > >::_Fput(class std::ostreambuf_iterator<char,struct std::char_traits<char> >,class std::ios_base &,char,char const *,unsigned int)const " (?_Fput@?$num_put@DV?$ostreambuf_iterator@DU?$char_traits@D@std@@@std@@@std@@ABA?AV?$ostreambuf_iterator@DU?$char_traits@D@std@@@2@V32@AAVios_base@2@DPBDI@Z)
+gwen_Debug.lib(ColorPicker.obj) : warning LNK4217: locally defined symbol __calloc_dbg imported in function "char * __cdecl std::_Maklocstr<char>(char const *,char *,struct _Cvtvec const &)" (??$_Maklocstr@D@std@@YAPADPBDPADABU_Cvtvec@@@Z)
+gwen_Debug.lib(ColorPicker.obj) : warning LNK4217: locally defined symbol _localeconv imported in function "private: class std::ostreambuf_iterator<char,struct std::char_traits<char> > __cdecl std::num_put<char,class std::ostreambuf_iterator<char,struct std::char_traits<char> > >::_Fput(class std::ostreambuf_iterator<char,struct std::char_traits<char> >,class std::ios_base &,char,char const *,unsigned int)const " (?_Fput@?$num_put@DV?$ostreambuf_iterator@DU?$char_traits@D@std@@@std@@@std@@ABA?AV?$ostreambuf_iterator@DU?$char_traits@D@std@@@2@V32@AAVios_base@2@DPBDI@Z)
+gwen_Debug.lib(Utility.obj) : warning LNK4217: locally defined symbol _atof imported in function "float __cdecl Gwen::Utility::Strings::To::Float(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &)" (?Float@To@Strings@Utility@Gwen@@YAMABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)
+gwen_Debug.lib(Utility.obj) : warning LNK4217: locally defined symbol ___stdio_common_vswprintf_s imported in function __vswprintf_s_l
+gwen_Debug.lib(Gwen.obj) : warning LNK4217: locally defined symbol ___stdio_common_vsnprintf_s imported in function __vsnprintf_s_l
+gwen_Debug.lib(TextBoxNumeric.obj) : warning LNK4217: locally defined symbol __wtof imported in function "public: virtual float __thiscall Gwen::Controls::TextBoxNumeric::GetFloatFromText(void)" (?GetFloatFromText@TextBoxNumeric@Controls@Gwen@@UAEMXZ)
+OpenGLWindow_Debug.lib(SimpleOpenGL3App.obj) : error LNK2019: unresolved external symbol __imp___pclose referenced in function "public: virtual void __thiscall SimpleOpenGL3App::dumpFramesToVideo(char const *)" (?dumpFramesToVideo@SimpleOpenGL3App@@UAEXPBD@Z)
+OpenGLWindow_Debug.lib(SimpleOpenGL3App.obj) : error LNK2019: unresolved external symbol __imp___popen referenced in function "public: virtual void __thiscall SimpleOpenGL3App::dumpFramesToVideo(char const *)" (?dumpFramesToVideo@SimpleOpenGL3App@@UAEXPBD@Z)
+MSVCRTD.lib(_chandler4gs_.obj) : error LNK2019: unresolved external symbol __except_handler4_common referenced in function __except_handler4
+D:\School\2nd year\Project 3\MGEngine\BulletBuild\examples\ExampleBrowser\Debug\App_ExampleBrowser.exe : fatal error LNK1120: 3 unresolved externals

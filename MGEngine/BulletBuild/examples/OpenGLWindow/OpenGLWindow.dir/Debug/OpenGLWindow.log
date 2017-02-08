@@ -1,0 +1,22 @@
+﻿  Building Custom Rule D:/School/2nd year/Project 3/MGEngine/bullet3/examples/OpenGLWindow/CMakeLists.txt
+  CMake does not need to re-run because D:\School\2nd year\Project 3\MGEngine\BulletBuild\examples\OpenGLWindow\CMakeFiles\generate.stamp is up-to-date.
+  glew.c
+  Win32OpenGLWindow.cpp
+  Win32Window.cpp
+  EGLOpenGLWindow.cpp
+  GLInstancingRenderer.cpp
+  GLPrimitiveRenderer.cpp
+D:\School\2nd year\Project 3\MGEngine\bullet3\examples\OpenGLWindow\GLPrimitiveRenderer.cpp(505): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+D:\School\2nd year\Project 3\MGEngine\bullet3\examples\OpenGLWindow\GLPrimitiveRenderer.cpp(525): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+  GLRenderToTexture.cpp
+  LoadShader.cpp
+  OpenSans.cpp
+  SimpleCamera.cpp
+  SimpleOpenGL2App.cpp
+  SimpleOpenGL2Renderer.cpp
+  SimpleOpenGL3App.cpp
+  TwFonts.cpp
+  fontstash.cpp
+  opengl_fontstashcallbacks.cpp
+  Generating Code...
+  OpenGLWindow.vcxproj -> D:\School\2nd year\Project 3\MGEngine\BulletBuild\lib\Debug\OpenGLWindow_Debug.lib

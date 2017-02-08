@@ -6,7 +6,10 @@ using namespace std;
 #include "mge/core/Renderer.hpp"
 #include "mge/core/World.hpp"
 
-AbstractGame::AbstractGame():_window(NULL),_renderer(NULL),_world(NULL), _fps(0)
+PhysicsWorld* AbstractGame::physicsWorld = NULL;
+World* AbstractGame::world = NULL;
+
+AbstractGame::AbstractGame():_window(NULL),_renderer(NULL), _fps(0)
 {
     //ctor
 }
@@ -16,7 +19,8 @@ AbstractGame::~AbstractGame()
     //dtor
     delete _window;
     delete _renderer;
-    delete _world;
+    delete world;
+	delete physicsWorld;
 }
 
 void AbstractGame::initialize() {
@@ -30,6 +34,14 @@ void AbstractGame::initialize() {
     cout << endl << "Engine initialized." << endl << endl;
 }
 
+void AbstractGame::AddPhysicsWorld(PhysicsWorld* pPW)
+{
+	physicsWorld = pPW;
+}
+
+void AbstractGame::SetTargetFps(float pFps) {
+	_targetFps = pFps;
+}
 ///SETUP
 
 void AbstractGame::_initializeWindow() {
@@ -78,7 +90,7 @@ void AbstractGame::_initializeRenderer() {
 void AbstractGame::_initializeWorld() {
     //setup the world
 	cout << "Initializing world..." << endl;
-	_world = new World();
+	world = new World();
     cout << "World initialized." << endl << endl;
 }
 
@@ -89,38 +101,38 @@ void AbstractGame::run()
 	sf::Clock updateClock;
 	sf::Clock renderClock;
 	sf::Time timeSinceLastUpdate = sf::Time::Zero;
-	sf::Time timePerFrame = sf::seconds(1.0f / 60.0f);
-
+	sf::Time timePerFrame = sf::seconds(1.0f / _targetFps);
 
 	while (_window->isOpen()) {
 		timeSinceLastUpdate += updateClock.restart();
 
 		if (timeSinceLastUpdate > timePerFrame)
 		{
-            glClear( GL_COLOR_BUFFER_BIT | GL_DEPTH_BUFFER_BIT );
+			glClear(GL_COLOR_BUFFER_BIT | GL_DEPTH_BUFFER_BIT);
 
-		    while (timeSinceLastUpdate > timePerFrame) {
-                timeSinceLastUpdate -= timePerFrame;
-                _update(timePerFrame.asSeconds());
-		    }
+			while (timeSinceLastUpdate > timePerFrame) {
+				timeSinceLastUpdate -= timePerFrame;
+				_update(timePerFrame.asSeconds()); //update
+				if (physicsWorld != NULL)physicsWorld->Update(timeSinceLastUpdate.asSeconds(), 7); //physics update
+			}
 
-            _render();
-            _window->display();
+			_render();
+			_window->display();
 
-            float timeSinceLastRender = renderClock.restart().asSeconds();
-            if (timeSinceLastRender != 0) _fps = 1.0f/timeSinceLastRender;
+			float timeSinceLastRender = renderClock.restart().asSeconds();
+			if (timeSinceLastRender != 0) _fps = 1.0f / timeSinceLastRender;
 		}
 
 		_processEvents();
-    }
+	}
 }
 
 void AbstractGame::_update(float pStep) {
-    _world->update(pStep);
+    world->update(pStep);
 }
 
 void AbstractGame::_render () {
-    _renderer->render(_world);
+    _renderer->render(world);
 }
 
 void AbstractGame::_processEvents()

@@ -1,0 +1,6 @@
+﻿  Building Custom Rule D:/School/2nd year/Project 3/MGEngine/bullet3/test/BulletDynamics/pendulum/CMakeLists.txt
+  CMake does not need to re-run because D:\School\2nd year\Project 3\MGEngine\BulletBuild\test\BulletDynamics\pendulum\CMakeFiles\generate.stamp is up-to-date.
+  Pendulum.cpp
+D:\School\2nd year\Project 3\MGEngine\bullet3\examples\MultiBody\Pendulum.cpp(195): warning C4316: 'Pendulum': object allocated on the heap may not be aligned 16
+D:\School\2nd year\Project 3\MGEngine\bullet3\examples\MultiBody\Pendulum.cpp(225): warning C4316: 'Pendulum': object allocated on the heap may not be aligned 16
+  Test_BulletDynamics.vcxproj -> D:\School\2nd year\Project 3\MGEngine\BulletBuild\test\BulletDynamics\pendulum\Debug\Test_BulletDynamics.exe

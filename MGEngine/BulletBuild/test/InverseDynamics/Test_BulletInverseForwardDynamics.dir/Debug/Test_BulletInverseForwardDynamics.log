@@ -1,0 +1,49 @@
+﻿  Building Custom Rule D:/School/2nd year/Project 3/MGEngine/bullet3/test/InverseDynamics/CMakeLists.txt
+  CMake does not need to re-run because D:\School\2nd year\Project 3\MGEngine\BulletBuild\test\InverseDynamics\CMakeFiles\generate.stamp is up-to-date.
+  test_invdyn_bullet.cpp
+D:\School\2nd year\Project 3\MGEngine\bullet3\test\InverseDynamics\test_invdyn_bullet.cpp(49): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+  b3ResourcePath.cpp
+  MyMultiBodyCreator.cpp
+D:\School\2nd year\Project 3\MGEngine\bullet3\examples\Importers\ImportURDFDemo\MyMultiBodyCreator.cpp(65): warning C4316: 'GenericConstraintUserInfo': object allocated on the heap may not be aligned 16
+D:\School\2nd year\Project 3\MGEngine\bullet3\examples\Importers\ImportURDFDemo\MyMultiBodyCreator.cpp(148): warning C4316: 'GenericConstraintUserInfo': object allocated on the heap may not be aligned 16
+D:\School\2nd year\Project 3\MGEngine\bullet3\examples\Importers\ImportURDFDemo\MyMultiBodyCreator.cpp(172): warning C4316: 'GenericConstraintUserInfo': object allocated on the heap may not be aligned 16
+  BulletUrdfImporter.cpp
+  urdfStringSplit.cpp
+  UrdfParser.cpp
+D:\School\2nd year\Project 3\MGEngine\bullet3\examples\Importers\ImportURDFDemo\UrdfParser.cpp(553): warning C4316: 'UrdfMaterial': object allocated on the heap may not be aligned 16
+D:\School\2nd year\Project 3\MGEngine\bullet3\examples\Importers\ImportURDFDemo\UrdfParser.cpp(587): warning C4316: 'UrdfMaterial': object allocated on the heap may not be aligned 16
+D:\School\2nd year\Project 3\MGEngine\bullet3\examples\Importers\ImportURDFDemo\UrdfParser.cpp(1336): warning C4316: 'UrdfMaterial': object allocated on the heap may not be aligned 16
+D:\School\2nd year\Project 3\MGEngine\bullet3\examples\Importers\ImportURDFDemo\UrdfParser.cpp(1359): warning C4316: 'UrdfLink': object allocated on the heap may not be aligned 16
+D:\School\2nd year\Project 3\MGEngine\bullet3\examples\Importers\ImportURDFDemo\UrdfParser.cpp(1407): warning C4316: 'UrdfJoint': object allocated on the heap may not be aligned 16
+D:\School\2nd year\Project 3\MGEngine\bullet3\examples\Importers\ImportURDFDemo\UrdfParser.cpp(1495): warning C4316: 'UrdfModel': object allocated on the heap may not be aligned 16
+D:\School\2nd year\Project 3\MGEngine\bullet3\examples\Importers\ImportURDFDemo\UrdfParser.cpp(1531): warning C4316: 'UrdfMaterial': object allocated on the heap may not be aligned 16
+D:\School\2nd year\Project 3\MGEngine\bullet3\examples\Importers\ImportURDFDemo\UrdfParser.cpp(1554): warning C4316: 'UrdfLink': object allocated on the heap may not be aligned 16
+D:\School\2nd year\Project 3\MGEngine\bullet3\examples\Importers\ImportURDFDemo\UrdfParser.cpp(1602): warning C4316: 'UrdfJoint': object allocated on the heap may not be aligned 16
+  URDF2Bullet.cpp
+  b3ImportMeshUtility.cpp
+D:\School\2nd year\Project 3\MGEngine\bullet3\examples\Importers\ImportMeshUtility\b3ImportMeshUtility.cpp(35): warning C4018: '<': signed/unsigned mismatch
+  stb_image.cpp
+  b3Clock.cpp
+  btBulletWorldImporter.cpp
+  btWorldImporter.cpp
+D:\School\2nd year\Project 3\MGEngine\bullet3\Extras\Serialize\BulletWorldImporter\btWorldImporter.cpp(1004): warning C4800: 'char': forcing value to bool 'true' or 'false' (performance warning)
+D:\School\2nd year\Project 3\MGEngine\bullet3\Extras\Serialize\BulletWorldImporter\btWorldImporter.cpp(1324): warning C4800: 'char': forcing value to bool 'true' or 'false' (performance warning)
+  bChunk.cpp
+  bFile.cpp
+  bDNA.cpp
+  btBulletFile.cpp
+  Wavefront2GLInstanceGraphicsShape.cpp
+D:\School\2nd year\Project 3\MGEngine\bullet3\examples\Importers\ImportObjDemo\Wavefront2GLInstanceGraphicsShape.cpp(52): warning C4018: '<': signed/unsigned mismatch
+D:\School\2nd year\Project 3\MGEngine\bullet3\examples\Importers\ImportObjDemo\Wavefront2GLInstanceGraphicsShape.cpp(79): warning C4018: '<': signed/unsigned mismatch
+D:\School\2nd year\Project 3\MGEngine\bullet3\examples\Importers\ImportObjDemo\Wavefront2GLInstanceGraphicsShape.cpp(104): warning C4018: '<': signed/unsigned mismatch
+  LoadMeshFromObj.cpp
+  LoadMeshFromCollada.cpp
+  tiny_obj_loader.cpp
+  Generating Code...
+  Compiling...
+  tinystr.cpp
+  tinyxml.cpp
+  tinyxmlerror.cpp
+  tinyxmlparser.cpp
+  Generating Code...
+  Test_BulletInverseForwardDynamics.vcxproj -> D:\School\2nd year\Project 3\MGEngine\BulletBuild\test\InverseDynamics\Debug\Test_BulletInverseForwardDynamics.exe

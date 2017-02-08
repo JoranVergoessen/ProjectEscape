@@ -35,7 +35,8 @@ btDiscreteDynamicsWorld* PhysicsWorld::GetDynamicsWorld()
 {
 	return _dynamicsWorld;
 }
-void PhysicsWorld::update(float pStep)
+void PhysicsWorld::Update(float pStep, int pMaxTimeSteps)
 {
-	_dynamicsWorld->stepSimulation(pStep);
+	_dynamicsWorld->stepSimulation(pStep, pMaxTimeSteps);
+	//std::cout<< "number of collision objects = "<<_dynamicsWorld->getNumCollisionObjects() << std::endl;
 }

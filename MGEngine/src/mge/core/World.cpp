@@ -21,6 +21,7 @@ Camera* World::getMainCamera () {
 
 void World::add(GameObject* pChild)
 {
+	std::cout << "\tAdding " << pChild->getName() << " to world" << std::endl;
 	pChild->setParent(this);
 	_worldChildren.push_back(pChild);	//for gameobject.find
 

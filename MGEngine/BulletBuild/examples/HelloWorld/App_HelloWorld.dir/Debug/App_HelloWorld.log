@@ -1,0 +1,4 @@
+﻿  Building Custom Rule D:/School/2nd year/Project 3/MGEngine/bullet3/examples/HelloWorld/CMakeLists.txt
+  CMake does not need to re-run because D:\School\2nd year\Project 3\MGEngine\BulletBuild\examples\HelloWorld\CMakeFiles\generate.stamp is up-to-date.
+  HelloWorld.cpp
+  App_HelloWorld.vcxproj -> D:\School\2nd year\Project 3\MGEngine\BulletBuild\examples\HelloWorld\Debug\App_HelloWorld.exe
